@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T12:25:48+00:00",
+  "generated_at": "2026-08-05T12:22:34+00:00",
   "source_file": "procurement_dataset.csv",
   "as_of": "2026-07-01",
   "scope": {
@@ -67,17 +67,17 @@
   "market_monitor": {
     "available": true,
     "drives_decision": false,
-    "generated_at": "2026-08-04T12:25:48+00:00",
+    "generated_at": "2026-08-05T12:22:34+00:00",
     "classification_method": "keyword rules",
     "exchange_rate": {
       "available": true,
       "source": "Turkish central bank daily reference rate",
       "pair": "USD/TRY",
-      "rate": 47.5352,
-      "rate_date": "2026-08-03",
-      "reference_rate": 46.7178,
-      "reference_date": "2026-07-03",
-      "change_pct": 1.75,
+      "rate": 47.555,
+      "rate_date": "2026-08-04",
+      "reference_rate": 46.8204,
+      "reference_date": "2026-07-06",
+      "change_pct": 1.57,
       "lookback_days": 30,
       "is_risk": false
     },
@@ -126,20 +126,6 @@
         "method": "keyword rules"
       },
       {
-        "risk_factor": "Red Sea shipping disruption",
-        "materials": [
-          "PA6",
-          "PP"
-        ],
-        "value": null,
-        "severity": "medium",
-        "headline": "Red Sea transit fee proposal could add fresh costs for shipping - Logistics Middle East",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcWZmcm9ZNl92ZUlHSUE5TWtnTjE4Mnp6T2dXbDEtcldDWHVaWWdFSnBEUzRFeG5qX2ZDN2ticE9PdjBwS0ZSb1ZzRGtvUFRWVUV1N0hidEtaNEwyS2VKTVJqdFY4Y0IxNVEtSURNYm4tMzY0Ujl2ZTExQ3doS0JXTGtHaVJMX2M0NjJHaENvd0pxRXRiZE9tTG4xbVdOdkdlX2dWb0ROcw?oc=5",
-        "published": "Thu, 30 Jul 2026 07:37:22 GMT",
-        "matched_on": "red sea",
-        "method": "keyword rules"
-      },
-      {
         "risk_factor": "Turkey minimum wage increase",
         "materials": [
           "PP",
@@ -165,6 +151,21 @@
         "severity": "medium",
         "headline": "T\u00fcrkiye hikes minimum wage by 27% for 2026 | Daily Sabah - Daily Sabah",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeEt5a3pUZ0xvRHN5TFpBTml4RmtLU2VqdklyOGVsVUlvdy1mczVjSHZjYTAzd0VodWNQeVltNEFjS2JnclZlTndhZ0xuWDZXYlpvMFA4bDJJTGlfNUR3eFNNN1lLaHp6b0h6bHVNSXhKQUxTNnFCZmJNcldWRzA4Z2gxTkRzcmlVTXQzYmhB0gGTAUFVX3lxTFAzclBHS29xMG8zalJEQ1p3dlVCVHpSSEkwV0tKMmpPdy0zak1YSmt4QUd3UUFROGNJc0dTbGVCZUNvX0ZTaTdQOHZQNjdVTnZJS3FzRUdPTXpTMzFFZ2Qzcm1nV3Zhb0tQNmwwLUVDeVlpQkw2VjBvRVNmSUt1ejlBeFdCbGs1TXlVb2ExMmRiQXpnQQ?oc=5",
+        "published": "Tue, 23 Dec 2025 08:00:00 GMT",
+        "matched_on": "minimum wage",
+        "method": "keyword rules"
+      },
+      {
+        "risk_factor": "Turkey minimum wage increase",
+        "materials": [
+          "PP",
+          "PA6",
+          "Steel"
+        ],
+        "value": null,
+        "severity": "medium",
+        "headline": "Turkey Raises Minimum Wage by 27%, in Line With Expectations - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYnRWcjY3TDlBSElBc1cyeGdRbXlDNkxUOGg0SllpdThlSjBTMDVTOVpaZHhqbmhQV1pNM0FUNFZ3VDYyM0pBSnVySmNCNjN6a0lYeXYzMlpxNGNXZ2loTmt4d3JhdXNCWXB0WUVRcWVnUnIyb1hpS3hwVFhZNUpKWHJkWWU3dXR2T3lIWF93WlBPX2gwNUNjTmczX2UzY1VYZmwwLWpQcnprYjlPSEE?oc=5",
         "published": "Tue, 23 Dec 2025 08:00:00 GMT",
         "matched_on": "minimum wage",
         "method": "keyword rules"
