@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-05T12:22:34+00:00",
+  "generated_at": "2026-08-06T12:26:18+00:00",
   "classification_method": "keyword rules",
   "sources": {
     "exchange_rate": {
       "available": true,
       "source": "Turkish central bank daily reference rate",
       "pair": "USD/TRY",
-      "rate": 47.555,
-      "rate_date": "2026-08-04",
-      "reference_rate": 46.8204,
-      "reference_date": "2026-07-06",
+      "rate": 47.5736,
+      "rate_date": "2026-08-05",
+      "reference_rate": 46.8367,
+      "reference_date": "2026-07-07",
       "change_pct": 1.57,
       "lookback_days": 30,
       "is_risk": false
@@ -35,24 +35,10 @@
       ],
       "value": null,
       "severity": "medium",
-      "headline": "Ocean freight market turns red hot, prompting freight rate rally - Scan Global Logistics",
+      "headline": "Ocean freight market turns red hot, prompting freight rate rally - scangl.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYU5Cc0o3ZlBMSXlKMnVLOWJsUndjU2VJdnRaNnVlOHBvNnk0cHMzT3JQRlVzcmpLR0FuWVQyVFk1dF9RVlo0Vm1fUHM3STdqSzNWRzZRSEhtbFB0bjJJc0otNEtiM2d6VXF2YTdqVGVtcVdNWWp1dnRfVHExeEg3MVNYc2xFVHRVRWE2bEZ0NmlPUjZtbTBR?oc=5",
       "published": "Wed, 08 Jul 2026 07:00:00 GMT",
       "matched_on": "freight rate",
-      "method": "keyword rules"
-    },
-    {
-      "risk_factor": "Red Sea shipping disruption",
-      "materials": [
-        "PA6",
-        "PP"
-      ],
-      "value": null,
-      "severity": "medium",
-      "headline": "Red Sea Emerges as Shipping\u2019s Next Flashpoint as Hormuz Crisis Persists - Global Trade Magazine",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYk5KeXB3cVpuMWN4Tm95MjZsTE4zTWxUVUJ6eFFoVV9QdmJHT0lRVkxud1U5d3FPMThVTi1ON1FYSVdwQjNad2x4VW5BSXRnRFRER1VRcjQ0NEdNaV9Wc2ZRZ0taTXpzRVhpSWwwako2cGkyam4xbGVpbEgtR3RpVS1iaGY2RzV1Szl4OUhlUDg2d1FCdWRSalFlczJNdXRPaHNvbA?oc=5",
-      "published": "Sat, 18 Jul 2026 07:00:00 GMT",
-      "matched_on": "red sea",
       "method": "keyword rules"
     },
     {
@@ -67,6 +53,20 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZTV2S042MElVS3Nla3BRekh3TER5b0dKTWZqb2xXWEp2U2FnNnlRQURlbG5JOEY1R2Uwc1JmUnFZV1lwbnN6bkI0WWxEMG4zcGFSRUZicUdEYk1PVThQVGRybFVTR09tVkFlZDZGTWx0NF85Z3JQUGQ2Uk1Ib0w2dG9SNEwxWVA5LVpBS2syemhHeGhSRVNpQ04xb3BwVGthZXBr?oc=5",
       "published": "Fri, 24 Jul 2026 07:00:00 GMT",
       "matched_on": "freight rate",
+      "method": "keyword rules"
+    },
+    {
+      "risk_factor": "Red Sea shipping disruption",
+      "materials": [
+        "PA6",
+        "PP"
+      ],
+      "value": null,
+      "severity": "medium",
+      "headline": "The Operations Leader's guide to navigating Red Sea disruption - Xeneta",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZHItZzFDNldOWXdXOXpUVVNaQmRORTZRZVFPNjN4WklKMVNWTFozUmFHQnpCcXVOekwwaGFfVk9UbUtsQWZpRUc3ZHZwb3o0eHlxSkI3dTBOa0w1YnNSV2JIU09oR1A0cnVYRXNyM0YxcVVjTV9DOEp0dTJ5cFpZZTBUbXJOZlF3LXE3WDFNeGhEdTA?oc=5",
+      "published": "Fri, 10 Apr 2026 07:00:00 GMT",
+      "matched_on": "red sea",
       "method": "keyword rules"
     },
     {
@@ -123,9 +123,9 @@
       ],
       "value": null,
       "severity": "medium",
-      "headline": "T\u00fcrkiye hikes minimum wage by 27% for 2026 to \u20ba28,075 - T\u00fcrkiye Today",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUjlFaC1NMTFEd1piX1dJN1NoZGpfRm9FZ0NUMk1EX0NiWWlBUkRxMnpRLWY1akFzVFBsRVBLVDJLZXFDalpQMW56Z3R4N1VyVnNRbnhhOEZ4d2VXWjBReXhPS2NCaFh1X29WcWV4a2F3RDBHcHJlWkV2c25GSVlCWTdhSmlUTENwTzh2alRpSGp0SUlfZzJ2ZjRwZWM?oc=5",
-      "published": "Tue, 23 Dec 2025 08:00:00 GMT",
+      "headline": "T\u00fcrkiye\u2019s minimum wage debate heats up under inflation\u2019s shadow amid living cost strain - T\u00fcrkiye Today",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOclpoeXhyR0psXzNVSGtLVS1fOXlzakMtUl9KajRmeGd5Q3VUWUlNLWdINGk1YUlybGU4anp2U2hlcmlDVFl1aEJrdk5VMkwxeU9UeURjY1p5T2xCM0xaVklDSWlNSmlzWWtnMmhtYzIzbHR1OVVZdko4OERBUDBmTnQzSDNYSHZSNzN0UTdYVVZxVUdoSnFBcmJNMGlfX1RzSkRoZ243TU5panMtVFd3UDdMS2V0MXV4RmRhX1pKUnBuWFZpQzExb2xkcw?oc=5",
+      "published": "Tue, 09 Dec 2025 08:00:00 GMT",
       "matched_on": "minimum wage",
       "method": "keyword rules"
     },
@@ -138,24 +138,24 @@
       ],
       "value": null,
       "severity": "medium",
-      "headline": "Turkey\u2019s hunger line nears 30,000 lira for family of 4 as minimum wage talks begin - Stockholm Center for Freedom",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeFFXd3k4TTZzbzdBUXJ4TkJiQXR2dVpDYkNJQnl2SFdrdENveEUzdGtPZVNxQlk3Qnhzc2w0QjZDOHV3bXA1VThSYmRlWTRzTXlPQmdZWHllSXJJT3ZKRjdfVkl5UVhJNndSMXdXOUR4UFdlRFFaMEVqcjZrZDJMQThvR3JPcnR4dGhFOURjUjZYbWxhTm9VYl9ndGU2bVphN1dUN1RCSkg?oc=5",
-      "published": "Mon, 15 Dec 2025 08:00:00 GMT",
-      "matched_on": "minimum wage",
-      "method": "keyword rules"
-    },
-    {
-      "risk_factor": "Turkey minimum wage increase",
-      "materials": [
-        "PP",
-        "PA6",
-        "Steel"
-      ],
-      "value": null,
-      "severity": "medium",
-      "headline": "Turkey\u2019s unions press for substantial raise ahead of 2026 minimum wage talks amid soaring cost of living - Turkish Minute",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTlhTZ1gzZHRVNHNqLVdsZHh2ZVBtQUlfX2gwbmtfUndJN0RPSFNsMDhfbzkyUEtHbkhaTV9rYTFpTXZmWF9RSEhmZzRmaVNsekE3ekV6VkZ5OEZPT1RWcEJ4NFdyZ29WUGxzZmhScDRpYVFMNHdTTW4yQkRZZVRzdFRCZU8xczk4YmU1c2pndy1mRE5DNk9MSThLdHRRVTZTRzdiSHJwZnRkZE03ZVVZY3ptamxReXdWUGd3M09vQU1BZm8tLXFfYlM5c1ByR0FoX1ZBeXpuMlowQkpRaXfSAeMBQVVfeXFMUEdBSV94cjBEWHZHZlNXNTNkSzVTODA3Z0t6NmZJNDZzbFB5ejEzR1FDZ2pFeDQ1LThjZEdsVl9EV29uREJubDk0ZkdsZVlvd05RVzdZZzVNMVZ1T1NLRzdfaFRsdmpFSE5VT2stanZ5M3llS1htclpyck4tYm1nOGVpVlJwR1ZDcHFIRGprUHE0bTcwU0h2dWxmNGJ3YUhHZFV3ZExSSVBDU1d1T0Q1by1aNk5qQno5a0d2U2VKOUpsX2pwSkprWFFXRnNaZDNrc1hpcUphcXY2azVfVndFSlhFSEE?oc=5",
+      "headline": "Turkey\u2019s unions press for substantial raise ahead of 2026 minimum wage talks amid soaring cost of living - Stockholm Center for Freedom",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeXVfLWhjZEl3WUJ6V2FYSHFSRnVmY0U1OGYybDBuRVl2M3NXa01ZblUza1BLRHlLLVA0MWdrUmgxbmQ3NnlVQzgyQ1NhZG5mUFl4b0FNcndXOXhVU3R6MUpUUkhEQVd2QmtkSTlkOUN1T1hfRWJ4OGx3c21LUFM5UHdaTjB0S2ZlZDBGZ3o0NlgzQXN6Nm9GYlg1bGoxMHp1VWlkZnVHakVualNYRktBMk93aVV3MTBaWnpyenZHTkxVT201ekNz?oc=5",
       "published": "Wed, 03 Dec 2025 08:00:00 GMT",
+      "matched_on": "minimum wage",
+      "method": "keyword rules"
+    },
+    {
+      "risk_factor": "Turkey minimum wage increase",
+      "materials": [
+        "PP",
+        "PA6",
+        "Steel"
+      ],
+      "value": null,
+      "severity": "medium",
+      "headline": "'Condemned to hunger': Turkey's below-inflation minimum wage rise sparks anger - Middle East Eye",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQVByNEFlR05IWWhaODBpOVpJMFhCRkpwaXVfWTNpcUs1VDMtczJpY1FDdDZhaGtNZUhCUVJxdzhYanpZbmthWGNfQjNoZWNmZk5PejZRbFNHUURMMVFRSEtXV2JnQnFFMW00cUdoOTFHVGJPdE5UUXo3RTVaaVFXV1ZOVjd6Ukg4ZUZzd0lQRVo?oc=5",
+      "published": "Fri, 27 Dec 2024 08:00:00 GMT",
       "matched_on": "minimum wage",
       "method": "keyword rules"
     }
@@ -165,14 +165,14 @@
       "risk_factor": "Red Sea shipping disruption",
       "value": null,
       "severity": "medium",
-      "headline": "Ocean freight market turns red hot, prompting freight rate rally - Scan Global Logistics",
+      "headline": "Ocean freight market turns red hot, prompting freight rate rally - scangl.com",
       "method": "keyword rules"
     },
     "PA6": {
       "risk_factor": "Red Sea shipping disruption",
       "value": null,
       "severity": "medium",
-      "headline": "Ocean freight market turns red hot, prompting freight rate rally - Scan Global Logistics",
+      "headline": "Ocean freight market turns red hot, prompting freight rate rally - scangl.com",
       "method": "keyword rules"
     },
     "Steel": {

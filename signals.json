@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T12:22:34+00:00",
+  "generated_at": "2026-08-06T12:26:18+00:00",
   "source_file": "procurement_dataset.csv",
   "as_of": "2026-07-01",
   "scope": {
@@ -67,16 +67,16 @@
   "market_monitor": {
     "available": true,
     "drives_decision": false,
-    "generated_at": "2026-08-05T12:22:34+00:00",
+    "generated_at": "2026-08-06T12:26:18+00:00",
     "classification_method": "keyword rules",
     "exchange_rate": {
       "available": true,
       "source": "Turkish central bank daily reference rate",
       "pair": "USD/TRY",
-      "rate": 47.555,
-      "rate_date": "2026-08-04",
-      "reference_rate": 46.8204,
-      "reference_date": "2026-07-06",
+      "rate": 47.5736,
+      "rate_date": "2026-08-05",
+      "reference_rate": 46.8367,
+      "reference_date": "2026-07-07",
       "change_pct": 1.57,
       "lookback_days": 30,
       "is_risk": false
@@ -91,24 +91,10 @@
         ],
         "value": null,
         "severity": "medium",
-        "headline": "Ocean freight market turns red hot, prompting freight rate rally - Scan Global Logistics",
+        "headline": "Ocean freight market turns red hot, prompting freight rate rally - scangl.com",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYU5Cc0o3ZlBMSXlKMnVLOWJsUndjU2VJdnRaNnVlOHBvNnk0cHMzT3JQRlVzcmpLR0FuWVQyVFk1dF9RVlo0Vm1fUHM3STdqSzNWRzZRSEhtbFB0bjJJc0otNEtiM2d6VXF2YTdqVGVtcVdNWWp1dnRfVHExeEg3MVNYc2xFVHRVRWE2bEZ0NmlPUjZtbTBR?oc=5",
         "published": "Wed, 08 Jul 2026 07:00:00 GMT",
         "matched_on": "freight rate",
-        "method": "keyword rules"
-      },
-      {
-        "risk_factor": "Red Sea shipping disruption",
-        "materials": [
-          "PA6",
-          "PP"
-        ],
-        "value": null,
-        "severity": "medium",
-        "headline": "Red Sea Emerges as Shipping\u2019s Next Flashpoint as Hormuz Crisis Persists - Global Trade Magazine",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYk5KeXB3cVpuMWN4Tm95MjZsTE4zTWxUVUJ6eFFoVV9QdmJHT0lRVkxud1U5d3FPMThVTi1ON1FYSVdwQjNad2x4VW5BSXRnRFRER1VRcjQ0NEdNaV9Wc2ZRZ0taTXpzRVhpSWwwako2cGkyam4xbGVpbEgtR3RpVS1iaGY2RzV1Szl4OUhlUDg2d1FCdWRSalFlczJNdXRPaHNvbA?oc=5",
-        "published": "Sat, 18 Jul 2026 07:00:00 GMT",
-        "matched_on": "red sea",
         "method": "keyword rules"
       },
       {
@@ -123,6 +109,20 @@
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZTV2S042MElVS3Nla3BRekh3TER5b0dKTWZqb2xXWEp2U2FnNnlRQURlbG5JOEY1R2Uwc1JmUnFZV1lwbnN6bkI0WWxEMG4zcGFSRUZicUdEYk1PVThQVGRybFVTR09tVkFlZDZGTWx0NF85Z3JQUGQ2Uk1Ib0w2dG9SNEwxWVA5LVpBS2syemhHeGhSRVNpQ04xb3BwVGthZXBr?oc=5",
         "published": "Fri, 24 Jul 2026 07:00:00 GMT",
         "matched_on": "freight rate",
+        "method": "keyword rules"
+      },
+      {
+        "risk_factor": "Red Sea shipping disruption",
+        "materials": [
+          "PA6",
+          "PP"
+        ],
+        "value": null,
+        "severity": "medium",
+        "headline": "The Operations Leader's guide to navigating Red Sea disruption - Xeneta",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZHItZzFDNldOWXdXOXpUVVNaQmRORTZRZVFPNjN4WklKMVNWTFozUmFHQnpCcXVOekwwaGFfVk9UbUtsQWZpRUc3ZHZwb3o0eHlxSkI3dTBOa0w1YnNSV2JIU09oR1A0cnVYRXNyM0YxcVVjTV9DOEp0dTJ5cFpZZTBUbXJOZlF3LXE3WDFNeGhEdTA?oc=5",
+        "published": "Fri, 10 Apr 2026 07:00:00 GMT",
+        "matched_on": "red sea",
         "method": "keyword rules"
       },
       {
@@ -189,7 +189,7 @@
         "risk_factor": "Red Sea shipping disruption",
         "value": null,
         "severity": "medium",
-        "headline": "Ocean freight market turns red hot, prompting freight rate rally - Scan Global Logistics",
+        "headline": "Ocean freight market turns red hot, prompting freight rate rally - scangl.com",
         "method": "keyword rules"
       },
       "signal": "Buy now",
@@ -252,7 +252,7 @@
         "risk_factor": "Red Sea shipping disruption",
         "value": null,
         "severity": "medium",
-        "headline": "Ocean freight market turns red hot, prompting freight rate rally - Scan Global Logistics",
+        "headline": "Ocean freight market turns red hot, prompting freight rate rally - scangl.com",
         "method": "keyword rules"
       },
       "signal": "Buy now",
