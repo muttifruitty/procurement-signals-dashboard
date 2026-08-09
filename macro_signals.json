@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T07:37:18+00:00",
+  "generated_at": "2026-08-09T07:58:29+00:00",
   "classification_method": "keyword rules",
   "sources": {
     "exchange_rate": {
@@ -8,9 +8,9 @@
       "pair": "USD/TRY",
       "rate": 47.6085,
       "rate_date": "2026-08-07",
-      "reference_rate": 46.8697,
-      "reference_date": "2026-07-09",
-      "change_pct": 1.58,
+      "reference_rate": 46.8927,
+      "reference_date": "2026-07-10",
+      "change_pct": 1.53,
       "lookback_days": 30,
       "is_risk": false
     },
@@ -35,9 +35,9 @@
       ],
       "value": null,
       "severity": "medium",
-      "headline": "Panama Canal Restrictions Propel North American Freight Rates; SCFI Rises for Second Straight Week to 3,276 Points - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FTlJNYV8zN0ZuWW1wczVacC1qbmtPLVl6bDlGQXNTeXJaazFWeVJjT3R4a0NZLTR3NWROeHFPRlVfVGRvZm9BX2J1VjVmcnFYcm5ielhFaTA2bG5lMmI1TnVlSUNiaW8xTVc4VmpQZWZyV2tLOVE?oc=5",
-      "published": "Fri, 07 Aug 2026 09:35:00 GMT",
+      "headline": "Ocean freight market turns red hot, prompting freight rate rally - Scan Global Logistics",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYU5Cc0o3ZlBMSXlKMnVLOWJsUndjU2VJdnRaNnVlOHBvNnk0cHMzT3JQRlVzcmpLR0FuWVQyVFk1dF9RVlo0Vm1fUHM3STdqSzNWRzZRSEhtbFB0bjJJc0otNEtiM2d6VXF2YTdqVGVtcVdNWWp1dnRfVHExeEg3MVNYc2xFVHRVRWE2bEZ0NmlPUjZtbTBR?oc=5",
+      "published": "Wed, 08 Jul 2026 07:00:00 GMT",
       "matched_on": "freight rate",
       "method": "keyword rules"
     },
@@ -49,9 +49,9 @@
       ],
       "value": null,
       "severity": "medium",
-      "headline": "Ocean freight market turns red hot, prompting freight rate rally - Scan Global Logistics",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYU5Cc0o3ZlBMSXlKMnVLOWJsUndjU2VJdnRaNnVlOHBvNnk0cHMzT3JQRlVzcmpLR0FuWVQyVFk1dF9RVlo0Vm1fUHM3STdqSzNWRzZRSEhtbFB0bjJJc0otNEtiM2d6VXF2YTdqVGVtcVdNWWp1dnRfVHExeEg3MVNYc2xFVHRVRWE2bEZ0NmlPUjZtbTBR?oc=5",
-      "published": "Wed, 08 Jul 2026 07:00:00 GMT",
+      "headline": "Panama Canal Restrictions Propel North American Freight Rates; SCFI Rises for Second Straight Week to 3,276 Points - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FTlJNYV8zN0ZuWW1wczVacC1qbmtPLVl6bDlGQXNTeXJaazFWeVJjT3R4a0NZLTR3NWROeHFPRlVfVGRvZm9BX2J1VjVmcnFYcm5ielhFaTA2bG5lMmI1TnVlSUNiaW8xTVc4VmpQZWZyV2tLOVE?oc=5",
+      "published": "Fri, 07 Aug 2026 09:35:00 GMT",
       "matched_on": "freight rate",
       "method": "keyword rules"
     },
@@ -165,14 +165,14 @@
       "risk_factor": "Red Sea shipping disruption",
       "value": null,
       "severity": "medium",
-      "headline": "Panama Canal Restrictions Propel North American Freight Rates; SCFI Rises for Second Straight Week to 3,276 Points - finance.biggo.com",
+      "headline": "Ocean freight market turns red hot, prompting freight rate rally - Scan Global Logistics",
       "method": "keyword rules"
     },
     "PA6": {
       "risk_factor": "Red Sea shipping disruption",
       "value": null,
       "severity": "medium",
-      "headline": "Panama Canal Restrictions Propel North American Freight Rates; SCFI Rises for Second Straight Week to 3,276 Points - finance.biggo.com",
+      "headline": "Ocean freight market turns red hot, prompting freight rate rally - Scan Global Logistics",
       "method": "keyword rules"
     },
     "Steel": {
