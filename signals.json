@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T07:58:30+00:00",
+  "generated_at": "2026-08-10T10:01:03+00:00",
   "source_file": "procurement_dataset.csv",
   "as_of": "2026-07-01",
   "scope": {
@@ -67,7 +67,7 @@
   "market_monitor": {
     "available": true,
     "drives_decision": false,
-    "generated_at": "2026-08-09T07:58:29+00:00",
+    "generated_at": "2026-08-10T10:01:03+00:00",
     "classification_method": "keyword rules",
     "exchange_rate": {
       "available": true,
@@ -94,20 +94,6 @@
         "headline": "Ocean freight market turns red hot, prompting freight rate rally - Scan Global Logistics",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYU5Cc0o3ZlBMSXlKMnVLOWJsUndjU2VJdnRaNnVlOHBvNnk0cHMzT3JQRlVzcmpLR0FuWVQyVFk1dF9RVlo0Vm1fUHM3STdqSzNWRzZRSEhtbFB0bjJJc0otNEtiM2d6VXF2YTdqVGVtcVdNWWp1dnRfVHExeEg3MVNYc2xFVHRVRWE2bEZ0NmlPUjZtbTBR?oc=5",
         "published": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "matched_on": "freight rate",
-        "method": "keyword rules"
-      },
-      {
-        "risk_factor": "Red Sea shipping disruption",
-        "materials": [
-          "PA6",
-          "PP"
-        ],
-        "value": null,
-        "severity": "medium",
-        "headline": "Panama Canal Restrictions Propel North American Freight Rates; SCFI Rises for Second Straight Week to 3,276 Points - finance.biggo.com",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FTlJNYV8zN0ZuWW1wczVacC1qbmtPLVl6bDlGQXNTeXJaazFWeVJjT3R4a0NZLTR3NWROeHFPRlVfVGRvZm9BX2J1VjVmcnFYcm5ielhFaTA2bG5lMmI1TnVlSUNiaW8xTVc4VmpQZWZyV2tLOVE?oc=5",
-        "published": "Fri, 07 Aug 2026 09:35:00 GMT",
         "matched_on": "freight rate",
         "method": "keyword rules"
       },
@@ -149,7 +135,7 @@
         ],
         "value": null,
         "severity": "medium",
-        "headline": "T\u00fcrkiye hikes minimum wage by 27% for 2026 | Daily Sabah - Daily Sabah",
+        "headline": "T\u00fcrkiye hikes minimum wage by 27% for 2026 | Daily Sabah - dailysabah.com",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeEt5a3pUZ0xvRHN5TFpBTml4RmtLU2VqdklyOGVsVUlvdy1mczVjSHZjYTAzd0VodWNQeVltNEFjS2JnclZlTndhZ0xuWDZXYlpvMFA4bDJJTGlfNUR3eFNNN1lLaHp6b0h6bHVNSXhKQUxTNnFCZmJNcldWRzA4Z2gxTkRzcmlVTXQzYmhB0gGTAUFVX3lxTFAzclBHS29xMG8zalJEQ1p3dlVCVHpSSEkwV0tKMmpPdy0zak1YSmt4QUd3UUFROGNJc0dTbGVCZUNvX0ZTaTdQOHZQNjdVTnZJS3FzRUdPTXpTMzFFZ2Qzcm1nV3Zhb0tQNmwwLUVDeVlpQkw2VjBvRVNmSUt1ejlBeFdCbGs1TXlVb2ExMmRiQXpnQQ?oc=5",
         "published": "Tue, 23 Dec 2025 08:00:00 GMT",
         "matched_on": "minimum wage",
@@ -167,6 +153,21 @@
         "headline": "Turkey Raises Minimum Wage by 27%, in Line With Expectations - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYnRWcjY3TDlBSElBc1cyeGdRbXlDNkxUOGg0SllpdThlSjBTMDVTOVpaZHhqbmhQV1pNM0FUNFZ3VDYyM0pBSnVySmNCNjN6a0lYeXYzMlpxNGNXZ2loTmt4d3JhdXNCWXB0WUVRcWVnUnIyb1hpS3hwVFhZNUpKWHJkWWU3dXR2T3lIWF93WlBPX2gwNUNjTmczX2UzY1VYZmwwLWpQcnprYjlPSEE?oc=5",
         "published": "Tue, 23 Dec 2025 08:00:00 GMT",
+        "matched_on": "minimum wage",
+        "method": "keyword rules"
+      },
+      {
+        "risk_factor": "Turkey minimum wage increase",
+        "materials": [
+          "PP",
+          "PA6",
+          "Steel"
+        ],
+        "value": null,
+        "severity": "medium",
+        "headline": "T\u00fcrkiye\u2019s minimum wage debate heats up under inflation\u2019s shadow amid living cost strain - T\u00fcrkiye Today",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOclpoeXhyR0psXzNVSGtLVS1fOXlzakMtUl9KajRmeGd5Q3VUWUlNLWdINGk1YUlybGU4anp2U2hlcmlDVFl1aEJrdk5VMkwxeU9UeURjY1p5T2xCM0xaVklDSWlNSmlzWWtnMmhtYzIzbHR1OVVZdko4OERBUDBmTnQzSDNYSHZSNzN0UTdYVVZxVUdoSnFBcmJNMGlfX1RzSkRoZ243TU5panMtVFd3UDdMS2V0MXV4RmRhX1pKUnBuWFZpQzExb2xkcw?oc=5",
+        "published": "Tue, 09 Dec 2025 08:00:00 GMT",
         "matched_on": "minimum wage",
         "method": "keyword rules"
       }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T07:58:29+00:00",
+  "generated_at": "2026-08-10T10:01:03+00:00",
   "classification_method": "keyword rules",
   "sources": {
     "exchange_rate": {
@@ -49,20 +49,6 @@
       ],
       "value": null,
       "severity": "medium",
-      "headline": "Panama Canal Restrictions Propel North American Freight Rates; SCFI Rises for Second Straight Week to 3,276 Points - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FTlJNYV8zN0ZuWW1wczVacC1qbmtPLVl6bDlGQXNTeXJaazFWeVJjT3R4a0NZLTR3NWROeHFPRlVfVGRvZm9BX2J1VjVmcnFYcm5ielhFaTA2bG5lMmI1TnVlSUNiaW8xTVc4VmpQZWZyV2tLOVE?oc=5",
-      "published": "Fri, 07 Aug 2026 09:35:00 GMT",
-      "matched_on": "freight rate",
-      "method": "keyword rules"
-    },
-    {
-      "risk_factor": "Red Sea shipping disruption",
-      "materials": [
-        "PA6",
-        "PP"
-      ],
-      "value": null,
-      "severity": "medium",
       "headline": "Shipping lines suspend Middle East bookings and raise freight rates - DatamarNews",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZTV2S042MElVS3Nla3BRekh3TER5b0dKTWZqb2xXWEp2U2FnNnlRQURlbG5JOEY1R2Uwc1JmUnFZV1lwbnN6bkI0WWxEMG4zcGFSRUZicUdEYk1PVThQVGRybFVTR09tVkFlZDZGTWx0NF85Z3JQUGQ2Uk1Ib0w2dG9SNEwxWVA5LVpBS2syemhHeGhSRVNpQ04xb3BwVGthZXBr?oc=5",
       "published": "Fri, 24 Jul 2026 07:00:00 GMT",
@@ -93,7 +79,7 @@
       ],
       "value": null,
       "severity": "medium",
-      "headline": "T\u00fcrkiye hikes minimum wage by 27% for 2026 | Daily Sabah - Daily Sabah",
+      "headline": "T\u00fcrkiye hikes minimum wage by 27% for 2026 | Daily Sabah - dailysabah.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeEt5a3pUZ0xvRHN5TFpBTml4RmtLU2VqdklyOGVsVUlvdy1mczVjSHZjYTAzd0VodWNQeVltNEFjS2JnclZlTndhZ0xuWDZXYlpvMFA4bDJJTGlfNUR3eFNNN1lLaHp6b0h6bHVNSXhKQUxTNnFCZmJNcldWRzA4Z2gxTkRzcmlVTXQzYmhB0gGTAUFVX3lxTFAzclBHS29xMG8zalJEQ1p3dlVCVHpSSEkwV0tKMmpPdy0zak1YSmt4QUd3UUFROGNJc0dTbGVCZUNvX0ZTaTdQOHZQNjdVTnZJS3FzRUdPTXpTMzFFZ2Qzcm1nV3Zhb0tQNmwwLUVDeVlpQkw2VjBvRVNmSUt1ejlBeFdCbGs1TXlVb2ExMmRiQXpnQQ?oc=5",
       "published": "Tue, 23 Dec 2025 08:00:00 GMT",
       "matched_on": "minimum wage",
@@ -138,7 +124,7 @@
       ],
       "value": null,
       "severity": "medium",
-      "headline": "Turkey\u2019s unions press for substantial raise ahead of 2026 minimum wage talks amid soaring cost of living - Stockholm Center for Freedom",
+      "headline": "Turkey\u2019s unions press for substantial raise ahead of 2026 minimum wage talks amid soaring cost of living - stockholmcf.org",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeXVfLWhjZEl3WUJ6V2FYSHFSRnVmY0U1OGYybDBuRVl2M3NXa01ZblUza1BLRHlLLVA0MWdrUmgxbmQ3NnlVQzgyQ1NhZG5mUFl4b0FNcndXOXhVU3R6MUpUUkhEQVd2QmtkSTlkOUN1T1hfRWJ4OGx3c21LUFM5UHdaTjB0S2ZlZDBGZ3o0NlgzQXN6Nm9GYlg1bGoxMHp1VWlkZnVHakVualNYRktBMk93aVV3MTBaWnpyenZHTkxVT201ekNz?oc=5",
       "published": "Wed, 03 Dec 2025 08:00:00 GMT",
       "matched_on": "minimum wage",
