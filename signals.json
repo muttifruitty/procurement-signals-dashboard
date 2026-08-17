@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T05:58:49+00:00",
+  "generated_at": "2026-08-17T06:05:09+00:00",
   "source_file": "procurement_dataset.csv",
   "as_of": "2026-07-01",
   "scope": {
@@ -67,7 +67,7 @@
   "market_monitor": {
     "available": true,
     "drives_decision": false,
-    "generated_at": "2026-08-16T05:58:49+00:00",
+    "generated_at": "2026-08-17T06:05:09+00:00",
     "classification_method": "keyword rules",
     "exchange_rate": {
       "available": true,
@@ -119,20 +119,6 @@
         ],
         "value": null,
         "severity": "medium",
-        "headline": "The Week in Charts: Red Sea shipping stabilises after July\u2019s Houthi blockade shock | War, disruption and rerouting fail to derail container demand - Lloyd's List",
-        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOSzA3ckd1aW92cjRBSkxFcUVZaEVINy1ENFk4QWtGTkxNV0RYdXdDN016d05CSkNWZVFmYmZSZTVuTXd5b0tlQjBZSWJLZUhXT0dkWjFKSldGSG9WcFF5ay1rSGFFWkxsQ2JlaEZsUmdmYWktY3VuWmFBUHE5cjZnblBfWFFMUTE1bERDNXZFNkdvUGVTUHo1ZnA1YjY3SlFrSkdpWVRxbmxWdHByczZnNnhUMUl1dGw5elZOUnZiSkViQmZpeURMWUhqQ2FPZEhkMDRaUkJRRE1yek1EeEU3TlhWSHZWQlRZY3lpTXU5cVlLclA0SGI2cnpDUVVVaEhHaHhoLUZnTmZRN2s?oc=5",
-        "published": "Mon, 10 Aug 2026 09:54:15 GMT",
-        "matched_on": "red sea",
-        "method": "keyword rules"
-      },
-      {
-        "risk_factor": "Red Sea shipping disruption",
-        "materials": [
-          "PA6",
-          "PP"
-        ],
-        "value": null,
-        "severity": "medium",
         "headline": "Ocean freight market turns red hot, prompting freight rate rally - Scan Global Logistics",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYU5Cc0o3ZlBMSXlKMnVLOWJsUndjU2VJdnRaNnVlOHBvNnk0cHMzT3JQRlVzcmpLR0FuWVQyVFk1dF9RVlo0Vm1fUHM3STdqSzNWRzZRSEhtbFB0bjJJc0otNEtiM2d6VXF2YTdqVGVtcVdNWWp1dnRfVHExeEg3MVNYc2xFVHRVRWE2bEZ0NmlPUjZtbTBR?oc=5",
         "published": "Wed, 08 Jul 2026 07:00:00 GMT",
@@ -147,25 +133,38 @@
         ],
         "value": null,
         "severity": "medium",
-        "headline": "Shipping lines suspend Middle East bookings and raise freight rates - datamarnews.com",
+        "headline": "The Week in Charts: Red Sea shipping stabilises after July\u2019s Houthi blockade shock | War, disruption and rerouting fail to derail container demand - Lloyd's List",
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOSzA3ckd1aW92cjRBSkxFcUVZaEVINy1ENFk4QWtGTkxNV0RYdXdDN016d05CSkNWZVFmYmZSZTVuTXd5b0tlQjBZSWJLZUhXT0dkWjFKSldGSG9WcFF5ay1rSGFFWkxsQ2JlaEZsUmdmYWktY3VuWmFBUHE5cjZnblBfWFFMUTE1bERDNXZFNkdvUGVTUHo1ZnA1YjY3SlFrSkdpWVRxbmxWdHByczZnNnhUMUl1dGw5elZOUnZiSkViQmZpeURMWUhqQ2FPZEhkMDRaUkJRRE1yek1EeEU3TlhWSHZWQlRZY3lpTXU5cVlLclA0SGI2cnpDUVVVaEhHaHhoLUZnTmZRN2s?oc=5",
+        "published": "Mon, 10 Aug 2026 09:54:15 GMT",
+        "matched_on": "red sea",
+        "method": "keyword rules"
+      },
+      {
+        "risk_factor": "Red Sea shipping disruption",
+        "materials": [
+          "PA6",
+          "PP"
+        ],
+        "value": null,
+        "severity": "medium",
+        "headline": "Shipping lines suspend Middle East bookings and raise freight rates - DatamarNews",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZTV2S042MElVS3Nla3BRekh3TER5b0dKTWZqb2xXWEp2U2FnNnlRQURlbG5JOEY1R2Uwc1JmUnFZV1lwbnN6bkI0WWxEMG4zcGFSRUZicUdEYk1PVThQVGRybFVTR09tVkFlZDZGTWx0NF85Z3JQUGQ2Uk1Ib0w2dG9SNEwxWVA5LVpBS2syemhHeGhSRVNpQ04xb3BwVGthZXBr?oc=5",
         "published": "Fri, 24 Jul 2026 07:00:00 GMT",
         "matched_on": "freight rate",
         "method": "keyword rules"
       },
       {
-        "risk_factor": "Turkey minimum wage increase",
+        "risk_factor": "Red Sea shipping disruption",
         "materials": [
-          "PP",
           "PA6",
-          "Steel"
+          "PP"
         ],
         "value": null,
         "severity": "medium",
-        "headline": "Turkey raises minimum wage by 27 percent, drawing sharp political backlash - Turkish Minute",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcDV5cm5nOVZWNzRNOV8tSHpGUXp5NHV2dkV3M1JkUW1rRktwTjRXTmdnU2VFaHo3VzU5dDZfZWFkY0tJTERFamt2WnVsOUlxVG52MlhQeXg1SDNJdlV0aG42WjRFYXBsLWJPcXpBWWlEZmV1eVRtZ2FSbExkN2RnUmhpUTJjVlB3Qi1KTDRLVWtmNWg0RUNvREExN3l0T1ZKVDkxM1J5X0dHY2hQSnhWWtIBtgFBVV95cUxPUEZvaVFzMUxVVGpfcU5Wc1hjbHRIQmRJeFZYSW4xR1dJVGZBaURDNU1ZOF9ZN0RsVkpHUXF2LUFXMjdzZ1Y0WlNfMTVyY2l1SUVXVHdtYWE5aVI1bk1iclNQeDNNT0NkWk9GcFpLNlZxQzJPck9PU191VzVZaF9QZmtjTVFTSUNnazRtekQ2SUxhR2NXMzdvREF1YllqcFZscFlyZDlEeUxRV0tQajd1OG1vNzJJdw?oc=5",
-        "published": "Wed, 24 Dec 2025 08:00:00 GMT",
-        "matched_on": "minimum wage",
+        "headline": "Houthi Attack Threatens Asia-Red Sea Cargo Flows as Oil Tops $100 - WWD",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT3pNX2xWbUY2NmFMTmxXMy1ycW96YzRmOTVhQkFRYkEwQzdxU1RFVHR3Ymo3cVhhRHRTVWpZN1o2cndSeVkwMElkdkYteGlCX2hqcl83RkNDa0dsbDgwVy1haUJjaERuRDliOThacnBMQWZ5RV9ZN0RaMWp3MXA2bDdCRGx2U1d5RW10bWVqTGRqNDU4UGlmU2ViWWpZWmp5NzR6UXVGNGJ4THRGNWV5Zm1DOWlFYWhqUmZJVW5ZMHVqT1E2T3JvY0hEVEI?oc=5",
+        "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+        "matched_on": "red sea",
         "method": "keyword rules"
       }
     ]
