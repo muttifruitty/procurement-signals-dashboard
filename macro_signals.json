@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T21:20:51+00:00",
+  "generated_at": "2026-08-29T11:32:43+00:00",
   "classification_method": "keyword rules",
   "sources": {
     "exchange_rate": {
@@ -8,9 +8,9 @@
       "pair": "USD/TRY",
       "rate": 48.1598,
       "rate_date": "2026-08-28",
-      "reference_rate": 47.3927,
-      "reference_date": "2026-07-29",
-      "change_pct": 1.62,
+      "reference_rate": 47.4126,
+      "reference_date": "2026-07-30",
+      "change_pct": 1.58,
       "lookback_days": 30,
       "is_risk": false
     },
@@ -167,9 +167,9 @@
       ],
       "value": null,
       "severity": "medium",
-      "headline": "'Condemned to hunger': Turkey's below-inflation minimum wage rise sparks anger - Middle East Eye",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQVByNEFlR05IWWhaODBpOVpJMFhCRkpwaXVfWTNpcUs1VDMtczJpY1FDdDZhaGtNZUhCUVJxdzhYanpZbmthWGNfQjNoZWNmZk5PejZRbFNHUURMMVFRSEtXV2JnQnFFMW00cUdoOTFHVGJPdE5UUXo3RTVaaVFXV1ZOVjd6Ukg4ZUZzd0lQRVo?oc=5",
-      "published": "Fri, 27 Dec 2024 08:00:00 GMT",
+      "headline": "Erdo\u011fan government escalates the class war over minimum wage - World Socialist Web Site",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vVUxZazY0amJrd2liRmFMYUhHMmRuaVB3SmdCb1lpSHcxdXEyWUtqWEN4NzBrZW9fOTZaNUpSVlBnUDhQb2FMQzZqVGtCTFpFVTNpdFI5VDFUTE1KdVNTNWdMc2dZSDJJ?oc=5",
+      "published": "Wed, 03 Dec 2025 08:00:00 GMT",
       "matched_on": "minimum wage",
       "method": "keyword rules"
     }

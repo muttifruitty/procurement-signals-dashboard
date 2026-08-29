@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T21:20:52+00:00",
+  "generated_at": "2026-08-29T11:32:44+00:00",
   "source_file": "procurement_dataset.csv",
   "as_of": "2026-07-01",
   "scope": {
@@ -67,7 +67,7 @@
   "market_monitor": {
     "available": true,
     "drives_decision": false,
-    "generated_at": "2026-08-28T21:20:51+00:00",
+    "generated_at": "2026-08-29T11:32:43+00:00",
     "classification_method": "keyword rules",
     "exchange_rate": {
       "available": true,
@@ -75,9 +75,9 @@
       "pair": "USD/TRY",
       "rate": 48.1598,
       "rate_date": "2026-08-28",
-      "reference_rate": 47.3927,
-      "reference_date": "2026-07-29",
-      "change_pct": 1.62,
+      "reference_rate": 47.4126,
+      "reference_date": "2026-07-30",
+      "change_pct": 1.58,
       "lookback_days": 30,
       "is_risk": false
     },
