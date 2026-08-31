@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T10:25:22+00:00",
+  "generated_at": "2026-08-31T11:30:12+00:00",
   "source_file": "procurement_dataset.csv",
   "as_of": "2026-07-01",
   "scope": {
@@ -67,7 +67,7 @@
   "market_monitor": {
     "available": true,
     "drives_decision": false,
-    "generated_at": "2026-08-30T10:25:22+00:00",
+    "generated_at": "2026-08-31T11:30:12+00:00",
     "classification_method": "keyword rules",
     "exchange_rate": {
       "available": true,
@@ -83,20 +83,6 @@
     },
     "headlines_screened": 24,
     "findings": [
-      {
-        "risk_factor": "Red Sea shipping disruption",
-        "materials": [
-          "PA6",
-          "PP"
-        ],
-        "value": null,
-        "severity": "medium",
-        "headline": "Ocean freight market turns red hot, prompting freight rate rally - Scan Global Logistics",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYU5Cc0o3ZlBMSXlKMnVLOWJsUndjU2VJdnRaNnVlOHBvNnk0cHMzT3JQRlVzcmpLR0FuWVQyVFk1dF9RVlo0Vm1fUHM3STdqSzNWRzZRSEhtbFB0bjJJc0otNEtiM2d6VXF2YTdqVGVtcVdNWWp1dnRfVHExeEg3MVNYc2xFVHRVRWE2bEZ0NmlPUjZtbTBR?oc=5",
-        "published": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "matched_on": "freight rate",
-        "method": "keyword rules"
-      },
       {
         "risk_factor": "Red Sea shipping disruption",
         "materials": [
@@ -133,10 +119,24 @@
         ],
         "value": null,
         "severity": "medium",
-        "headline": "US AND ISRAEL MILITARY STRIKES AGAINST IRAN SHATTER PROSPECTS OF CONTAINER SHIPPING RETURN TO RED SEA - Xeneta",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQmVwRXFGcmp1YTI1QmFOc1YyUk5KbXZCdFVBWnNEMWpZeXRuc3NDbEJBMlp0RWdIUjZUT3RQajJEamo0Zi1kcHh1eVhweWRBTjgyam5iclhRYkJpNTg2LWJXbV90WXZsdW9Vd1d3R2daRmdSMXNsWTZSUTFfUjBKeEhMU2U2WktERXZIcXpVTlEtNm9MVkZkTXNZQk5nSDVfYjBvWWEtZndLZkR0X181ZlZNa0V1ak1wZDA4ZWN5SFBPdnplR3FwWlF3eVc?oc=5",
-        "published": "Sat, 28 Feb 2026 17:31:12 GMT",
-        "matched_on": "red sea",
+        "headline": "Maersk raises outlook again as strong demand, freight rates lift profit - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQW5qM2VYQ3RlX1Q5SWhodmtJeXJpTkI3YzNiMFBQc3l5VUlQOTctcGctMHIxaU1hdE03MmdodV9ub1V1YjQzSGlLcTN2MzEyY2dxSnlDSTc1U0JiY1BIcDNZNjk1MmFVVzFIRURheEVUVEwzeDR4S2trQ1B0eUJmWF9mb1F6cl9Kc3V3OWpOMWY4enZMbGd3ZFNjdUpYZHc0aXY0dXRuZkU0a3JHOHVsY3JVdmJGdXNL?oc=5",
+        "published": "Thu, 13 Aug 2026 07:00:00 GMT",
+        "matched_on": "freight rate",
+        "method": "keyword rules"
+      },
+      {
+        "risk_factor": "Red Sea shipping disruption",
+        "materials": [
+          "PA6",
+          "PP"
+        ],
+        "value": null,
+        "severity": "medium",
+        "headline": "Container Freight Rates Rise for Fourth Straight Week on Americas Demand - \uc870\uc120\uc77c\ubcf4",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbl9oYjhUZWJUZVhfSWhiVXlUSzBUallsbzhiY085UzlHT1M0UzFZYkdzNXY0ZThTLWhxNmpvNzg3S2JTeE4yQmZqQ0pTd2FiOUlFNGgxdWkwMU1JczNKNmg2c1pIUmJEMzBjaDhDVnBqZ1Vkb2FDYW9uZllBRWw1Wm5xV21mSDBD?oc=5",
+        "published": "Wed, 26 Aug 2026 08:56:27 GMT",
+        "matched_on": "freight rate",
         "method": "keyword rules"
       },
       {
@@ -188,7 +188,7 @@
         "risk_factor": "Red Sea shipping disruption",
         "value": null,
         "severity": "medium",
-        "headline": "Ocean freight market turns red hot, prompting freight rate rally - Scan Global Logistics",
+        "headline": "Ocean Freight Rates Surge +400% \u2014 But Demand Isn\u2019t Driving It - FreightWaves",
         "method": "keyword rules"
       },
       "signal": "Buy now",
@@ -251,7 +251,7 @@
         "risk_factor": "Red Sea shipping disruption",
         "value": null,
         "severity": "medium",
-        "headline": "Ocean freight market turns red hot, prompting freight rate rally - Scan Global Logistics",
+        "headline": "Ocean Freight Rates Surge +400% \u2014 But Demand Isn\u2019t Driving It - FreightWaves",
         "method": "keyword rules"
       },
       "signal": "Buy now",
