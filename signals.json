@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T08:54:36+00:00",
+  "generated_at": "2026-09-06T09:15:25+00:00",
   "source_file": "procurement_dataset.csv",
   "as_of": "2026-07-01",
   "scope": {
@@ -67,7 +67,7 @@
   "market_monitor": {
     "available": true,
     "drives_decision": false,
-    "generated_at": "2026-09-05T08:54:35+00:00",
+    "generated_at": "2026-09-06T09:15:25+00:00",
     "classification_method": "keyword rules",
     "exchange_rate": {
       "available": true,
@@ -75,9 +75,9 @@
       "pair": "USD/TRY",
       "rate": 48.3195,
       "rate_date": "2026-09-04",
-      "reference_rate": 47.5911,
-      "reference_date": "2026-08-06",
-      "change_pct": 1.53,
+      "reference_rate": 47.6085,
+      "reference_date": "2026-08-07",
+      "change_pct": 1.49,
       "lookback_days": 30,
       "is_risk": false
     },
@@ -91,7 +91,7 @@
         ],
         "value": null,
         "severity": "medium",
-        "headline": "Port congestion and Red Sea risks keep container shipping under pressure - mykn.kuehne-nagel.com",
+        "headline": "Port congestion and Red Sea risks keep container shipping under pressure - Kuehne+Nagel",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVnFnVEpJd09lNUtPeEI0a0N1aGpZdTQwWlNLcm5EVm14TnVJMGJPb2xkYUN6WTRwYVgySmtQOWhtX1ZjR0VTRXVOWUV0Nkx4Q1ZySTVLUTlJR2RVRzczWUVjb1BrNFpacU1nNkp3UGV5N2dxYWpCX2RPVS1NdGZhMnRKYmNtRjNO?oc=5",
         "published": "Fri, 21 Aug 2026 10:00:00 GMT",
         "matched_on": "red sea",
@@ -133,9 +133,9 @@
         ],
         "value": null,
         "severity": "medium",
-        "headline": "Maersk raises outlook again as strong demand, freight rates lift profit - reuters.com",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQW5qM2VYQ3RlX1Q5SWhodmtJeXJpTkI3YzNiMFBQc3l5VUlQOTctcGctMHIxaU1hdE03MmdodV9ub1V1YjQzSGlLcTN2MzEyY2dxSnlDSTc1U0JiY1BIcDNZNjk1MmFVVzFIRURheEVUVEwzeDR4S2trQ1B0eUJmWF9mb1F6cl9Kc3V3OWpOMWY4enZMbGd3ZFNjdUpYZHc0aXY0dXRuZkU0a3JHOHVsY3JVdmJGdXNL?oc=5",
-        "published": "Thu, 13 Aug 2026 07:00:00 GMT",
+        "headline": "Ocean freight market turns red hot, prompting freight rate rally - Scan Global Logistics",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYU5Cc0o3ZlBMSXlKMnVLOWJsUndjU2VJdnRaNnVlOHBvNnk0cHMzT3JQRlVzcmpLR0FuWVQyVFk1dF9RVlo0Vm1fUHM3STdqSzNWRzZRSEhtbFB0bjJJc0otNEtiM2d6VXF2YTdqVGVtcVdNWWp1dnRfVHExeEg3MVNYc2xFVHRVRWE2bEZ0NmlPUjZtbTBR?oc=5",
+        "published": "Wed, 08 Jul 2026 07:00:00 GMT",
         "matched_on": "freight rate",
         "method": "keyword rules"
       },
@@ -147,10 +147,10 @@
         ],
         "value": null,
         "severity": "medium",
-        "headline": "The Week in Charts: Red Sea shipping stabilises after July\u2019s Houthi blockade shock | War, disruption and rerouting fail to derail container demand - Lloyd's List",
-        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOSzA3ckd1aW92cjRBSkxFcUVZaEVINy1ENFk4QWtGTkxNV0RYdXdDN016d05CSkNWZVFmYmZSZTVuTXd5b0tlQjBZSWJLZUhXT0dkWjFKSldGSG9WcFF5ay1rSGFFWkxsQ2JlaEZsUmdmYWktY3VuWmFBUHE5cjZnblBfWFFMUTE1bERDNXZFNkdvUGVTUHo1ZnA1YjY3SlFrSkdpWVRxbmxWdHByczZnNnhUMUl1dGw5elZOUnZiSkViQmZpeURMWUhqQ2FPZEhkMDRaUkJRRE1yek1EeEU3TlhWSHZWQlRZY3lpTXU5cVlLclA0SGI2cnpDUVVVaEhHaHhoLUZnTmZRN2s?oc=5",
-        "published": "Mon, 10 Aug 2026 09:54:46 GMT",
-        "matched_on": "red sea",
+        "headline": "Maersk raises outlook again as strong demand, freight rates lift profit - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQW5qM2VYQ3RlX1Q5SWhodmtJeXJpTkI3YzNiMFBQc3l5VUlQOTctcGctMHIxaU1hdE03MmdodV9ub1V1YjQzSGlLcTN2MzEyY2dxSnlDSTc1U0JiY1BIcDNZNjk1MmFVVzFIRURheEVUVEwzeDR4S2trQ1B0eUJmWF9mb1F6cl9Kc3V3OWpOMWY4enZMbGd3ZFNjdUpYZHc0aXY0dXRuZkU0a3JHOHVsY3JVdmJGdXNL?oc=5",
+        "published": "Thu, 13 Aug 2026 07:00:00 GMT",
+        "matched_on": "freight rate",
         "method": "keyword rules"
       },
       {
@@ -187,7 +187,7 @@
         "risk_factor": "Red Sea shipping disruption",
         "value": null,
         "severity": "medium",
-        "headline": "Port congestion and Red Sea risks keep container shipping under pressure - mykn.kuehne-nagel.com",
+        "headline": "Port congestion and Red Sea risks keep container shipping under pressure - Kuehne+Nagel",
         "method": "keyword rules"
       },
       "signal": "Buy now",
@@ -250,7 +250,7 @@
         "risk_factor": "Red Sea shipping disruption",
         "value": null,
         "severity": "medium",
-        "headline": "Port congestion and Red Sea risks keep container shipping under pressure - mykn.kuehne-nagel.com",
+        "headline": "Port congestion and Red Sea risks keep container shipping under pressure - Kuehne+Nagel",
         "method": "keyword rules"
       },
       "signal": "Buy now",
