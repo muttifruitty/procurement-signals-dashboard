@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T09:31:42+00:00",
+  "generated_at": "2026-09-11T09:28:36+00:00",
   "source_file": "procurement_dataset.csv",
   "as_of": "2026-07-01",
   "scope": {
@@ -67,16 +67,16 @@
   "market_monitor": {
     "available": true,
     "drives_decision": false,
-    "generated_at": "2026-09-10T09:31:42+00:00",
+    "generated_at": "2026-09-11T09:28:36+00:00",
     "classification_method": "keyword rules",
     "exchange_rate": {
       "available": true,
       "source": "Turkish central bank daily reference rate",
       "pair": "USD/TRY",
-      "rate": 48.4777,
-      "rate_date": "2026-09-09",
-      "reference_rate": 47.7364,
-      "reference_date": "2026-08-11",
+      "rate": 48.4941,
+      "rate_date": "2026-09-10",
+      "reference_rate": 47.7537,
+      "reference_date": "2026-08-12",
       "change_pct": 1.55,
       "lookback_days": 30,
       "is_risk": false
@@ -133,10 +133,10 @@
         ],
         "value": null,
         "severity": "medium",
-        "headline": "US AND ISRAEL MILITARY STRIKES AGAINST IRAN SHATTER PROSPECTS OF CONTAINER SHIPPING RETURN TO RED SEA - Xeneta",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQmVwRXFGcmp1YTI1QmFOc1YyUk5KbXZCdFVBWnNEMWpZeXRuc3NDbEJBMlp0RWdIUjZUT3RQajJEamo0Zi1kcHh1eVhweWRBTjgyam5iclhRYkJpNTg2LWJXbV90WXZsdW9Vd1d3R2daRmdSMXNsWTZSUTFfUjBKeEhMU2U2WktERXZIcXpVTlEtNm9MVkZkTXNZQk5nSDVfYjBvWWEtZndLZkR0X181ZlZNa0V1ak1wZDA4ZWN5SFBPdnplR3FwWlF3eVc?oc=5",
-        "published": "Sat, 28 Feb 2026 17:31:12 GMT",
-        "matched_on": "red sea",
+        "headline": "Ocean Freight Rates Surge +400% \u2014 But Demand Isn\u2019t Driving It - FreightWaves",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa3BPV1gzQm1LUm9mU0o4d1lkTHZJNFFHRjhtc1Z0dlRXcjRBYW5zZnotYXBsT1hlUmJvMGtLZW1OYWlYajI0c3MzRFZ2UDNtZDNuZUpXVXU5elo1anNqVGExSE9rTHg3UDYxN3djOGlJQmVrOVNLbUtMZFZJdjdEdm5qVWtRMzdZVkVCOUlDT21kc0Fn?oc=5",
+        "published": "Tue, 18 Aug 2026 07:00:00 GMT",
+        "matched_on": "freight rate",
         "method": "keyword rules"
       },
       {
@@ -147,10 +147,10 @@
         ],
         "value": null,
         "severity": "medium",
-        "headline": "Freight Rates Rally on Early Peak Season Demand - czapp.com",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcHlpQzhoSkJ1MGxHeGdLUGY1VmdLTVZTQmFFVmhzNDk3TXk1V3B1YWhzRElWUUZPaXMyOTlNVXQ5SDNEX3hhN0dQeE1CRjZBTHMtOFpwdmVDaE5qakI3cVRWUUtjSWY0bGVkSzk2UzNTRVd6MXpJYXZnTXJZQzNkUURTU1d6b2lUSk9SV251SDY?oc=5",
-        "published": "Wed, 15 Jul 2026 07:00:00 GMT",
-        "matched_on": "freight rate",
+        "headline": "T3ex: Red Sea Crisis Unresolved, Container Freight Rates to Stay Elevated Through at Least September; Air Freight Q3 Even Stronger - finance.biggo.com",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kQjB4ckFaQjdsQnZ2bERRbGZZeFJQTHl4YlpKQVpabWJFSWxVUUlRakVlZGl5QnpJME1yd2lqdEdTaDgtYkRYRzFXSGZIU0g3UENwS1RTbmtZNm41TEtsNldiSWdRbzJFT1JlSzctWjF3Sks5aFE?oc=5",
+        "published": "Wed, 19 Aug 2026 07:00:00 GMT",
+        "matched_on": "red sea",
         "method": "keyword rules"
       },
       {
