@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T09:47:49+00:00",
+  "generated_at": "2026-09-17T09:54:54+00:00",
   "source_file": "procurement_dataset.csv",
   "as_of": "2026-07-01",
   "scope": {
@@ -67,17 +67,17 @@
   "market_monitor": {
     "available": true,
     "drives_decision": false,
-    "generated_at": "2026-09-16T09:47:49+00:00",
+    "generated_at": "2026-09-17T09:54:53+00:00",
     "classification_method": "keyword rules",
     "exchange_rate": {
       "available": true,
       "source": "Turkish central bank daily reference rate",
       "pair": "USD/TRY",
-      "rate": 48.646,
-      "rate_date": "2026-09-15",
-      "reference_rate": 47.897,
-      "reference_date": "2026-08-17",
-      "change_pct": 1.56,
+      "rate": 48.6654,
+      "rate_date": "2026-09-16",
+      "reference_rate": 47.9155,
+      "reference_date": "2026-08-18",
+      "change_pct": 1.57,
       "lookback_days": 30,
       "is_risk": false
     },
@@ -119,6 +119,20 @@
         ],
         "value": null,
         "severity": "medium",
+        "headline": "New return: Another container line is back in the Red Sea - FreightWaves",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTEdJSlZhSFg0VmV2cEJhcFNzZjhZdHZBeUFGbFZNY05KSmNESHNvSERtWTJWS2tzWkVvc2NockJOTjVEejRoclFIZ25vYzZDbjRRTUVpRm9RQzdOdklDdDVZN29tWEd6TnAyYUlneUQtT3ZudGFRZktMRVFVcVY5VDBiOWcyZ1d6dGpIZU9UVTZ3dUNt?oc=5",
+        "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+        "matched_on": "red sea",
+        "method": "keyword rules"
+      },
+      {
+        "risk_factor": "Red Sea shipping disruption",
+        "materials": [
+          "PA6",
+          "PP"
+        ],
+        "value": null,
+        "severity": "medium",
         "headline": "Port congestion and Red Sea risks keep container shipping under pressure - Kuehne+Nagel",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVnFnVEpJd09lNUtPeEI0a0N1aGpZdTQwWlNLcm5EVm14TnVJMGJPb2xkYUN6WTRwYVgySmtQOWhtX1ZjR0VTRXVOWUV0Nkx4Q1ZySTVLUTlJR2RVRzczWUVjb1BrNFpacU1nNkp3UGV5N2dxYWpCX2RPVS1NdGZhMnRKYmNtRjNO?oc=5",
         "published": "Fri, 21 Aug 2026 10:00:00 GMT",
@@ -137,20 +151,6 @@
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvbG9ETnZVMk5XUzU2aHBDUExpSU5YTmdVV0tLNnR6c3ktR3J6TlNjeWhwSkNkYURSWjdIVUFtNEJ5cmE4anM5SE1lNmU5cHpPb3Z1UW1OOVhqa3c2ZXdpZVBLZkJoYkE?oc=5",
         "published": "Tue, 08 Sep 2026 05:11:47 GMT",
         "matched_on": "freight rate",
-        "method": "keyword rules"
-      },
-      {
-        "risk_factor": "Red Sea shipping disruption",
-        "materials": [
-          "PA6",
-          "PP"
-        ],
-        "value": null,
-        "severity": "medium",
-        "headline": "Liners and Red Sea: Damn the Houthis, full speed ahead! - FreightWaves",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZklmVWlXWWdDNG9SV2c2WUlRZzEzcjYtSWcyeThQZzlWS3ZVeEJWckY5T1FIY3ZsSG9zUFYtaDNqemxUdkoyaXRqeWpJOTRybUN4Si1YOGh2ZTlqWWg0VnZFLTZLNC0wUTVmc3lSbmxUdnZTd3dQaXhpMGxoR3FiNFVlQlA0TjJjYmNrcTdWWQ?oc=5",
-        "published": "Wed, 19 Aug 2026 07:00:00 GMT",
-        "matched_on": "red sea",
         "method": "keyword rules"
       },
       {
