@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-18T09:33:22+00:00",
+  "generated_at": "2026-09-19T09:19:23+00:00",
   "classification_method": "keyword rules",
   "sources": {
     "exchange_rate": {
       "available": true,
       "source": "Turkish central bank daily reference rate",
       "pair": "USD/TRY",
-      "rate": 48.6749,
-      "rate_date": "2026-09-17",
-      "reference_rate": 47.9329,
-      "reference_date": "2026-08-19",
-      "change_pct": 1.55,
+      "rate": 48.6992,
+      "rate_date": "2026-09-18",
+      "reference_rate": 47.9504,
+      "reference_date": "2026-08-20",
+      "change_pct": 1.56,
       "lookback_days": 30,
       "is_risk": false
     },
@@ -49,23 +49,9 @@
       ],
       "value": null,
       "severity": "medium",
-      "headline": "Spot rates hold steady as Hormuz flows improve, but Red Sea risks rise - Home Accents Today",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPenlCR0tEOElGMUpXaHhyT1dZNS0ySml2Ql9EaEZHbHFfcGlFS2ktektZOXFPanJLcUpkbHlNbkljV0drNkpkM29EWG4tT0dselUtV3pzOWpYSGtfYjcwVU5wbW1mS2FEMFhkLVpYYkx5aU1VbVRoVGNtbnpzQkJWSVBNa0hqbzJzeDVtb3o1MlhmcFhQVUNDbXc3MGUtQlVPOGtDVjZqNGpwbDZLTVNacnhTS0F2aGc?oc=5",
-      "published": "Fri, 11 Sep 2026 19:37:35 GMT",
-      "matched_on": "red sea",
-      "method": "keyword rules"
-    },
-    {
-      "risk_factor": "Red Sea shipping disruption",
-      "materials": [
-        "PA6",
-        "PP"
-      ],
-      "value": null,
-      "severity": "medium",
-      "headline": "New return: Another container line is back in the Red Sea - FreightWaves",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTEdJSlZhSFg0VmV2cEJhcFNzZjhZdHZBeUFGbFZNY05KSmNESHNvSERtWTJWS2tzWkVvc2NockJOTjVEejRoclFIZ25vYzZDbjRRTUVpRm9RQzdOdklDdDVZN29tWEd6TnAyYUlneUQtT3ZudGFRZktMRVFVcVY5VDBiOWcyZ1d6dGpIZU9UVTZ3dUNt?oc=5",
-      "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "headline": "Spot Rates Hold Steady as Hormuz Flows Improve, But Red Sea Risks Rise - Gifts & Decorative Accessories",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdVpLUUMxTVU3end5N3RPVGFGQVA1NHAzQzBqYlROUHF0eElFVTlGbUMzOUw2NWpBM2NESjZwaF9URVlpS3VZQzNDeUxKZGVUT184OUFsZDFKUHNSdzVORkh3Y2trd3BWUURTaGRMVFRfdUc3U3JmcEZWZkZEYlcyWnBsTEJYb0RKVVpEN25RN0pzQm9Ic1Z0VzlFMnhucFk2dGp3UWxTbmVnX2hzdnR4Qw?oc=5",
+      "published": "Fri, 11 Sep 2026 16:07:24 GMT",
       "matched_on": "red sea",
       "method": "keyword rules"
     },
@@ -91,7 +77,7 @@
       ],
       "value": null,
       "severity": "medium",
-      "headline": "Why Container Freight Rates Have Not Fallen as Expected in H2 2026 - xindemarinenews.com",
+      "headline": "Why Container Freight Rates Have Not Fallen as Expected in H2 2026 - Xinde Maritime News",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvbG9ETnZVMk5XUzU2aHBDUExpSU5YTmdVV0tLNnR6c3ktR3J6TlNjeWhwSkNkYURSWjdIVUFtNEJ5cmE4anM5SE1lNmU5cHpPb3Z1UW1OOVhqa3c2ZXdpZVBLZkJoYkE?oc=5",
       "published": "Tue, 08 Sep 2026 05:11:47 GMT",
       "matched_on": "freight rate",
@@ -106,7 +92,7 @@
       ],
       "value": null,
       "severity": "medium",
-      "headline": "Turkey raises minimum wage by 27 percent, drawing sharp political backlash - turkishminute.com",
+      "headline": "Turkey raises minimum wage by 27 percent, drawing sharp political backlash - Turkish Minute",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY3VJWWwyQ2h5NWJrd3dacE5HdmlENWliWDQ3UUZjR1VOMlBVLXAtWEZnVUU1QVU0bXlPUHRPdlZfLThJQ3E2THRHSVRVQnF3cDkydDcySVczSnBuU0UyeTZHQkRhU1Bxa2JLckVSQ0YxOTZiZFNQbWJ6UDczNFdXT0o3NEx3S1lsNTVRR2Z6Wjh1YVhzM2ZEN0ticlViZWMzOE1IdGN4X1Z5eU4wMjlDWDNfbE5iUdIBuwFBVV95cUxNc3hFRU1PQUxEbkFUcjcxeVlWWno1dTN4QXlxZl9uNDFpcUlQdGotMTJQMDN3Yi05T09pX2pNQTZqVnNSdzR3ZmJMZWxpa0dHVVRSYThzTnpjazhjbTJYX2xYMFZsWHQ5dmR5R2h3dm9nUEdCNXl0QlVWOVpWX2RUVTkzNnFQSk5QTE9JeXRvMkpjcmNJZW8xUGZzOHRxOHpmT0I5blItS2Z2cjJwWmlmU3BSc3BPdzc2bU1j?oc=5",
       "published": "Wed, 24 Dec 2025 08:00:00 GMT",
       "matched_on": "minimum wage",
@@ -136,7 +122,7 @@
       ],
       "value": null,
       "severity": "medium",
-      "headline": "Turkey Raises Minimum Wage by 27%, in Line With Expectations - Bloomberg.com",
+      "headline": "Turkey Raises Minimum Wage by 27%, in Line With Expectations - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYnRWcjY3TDlBSElBc1cyeGdRbXlDNkxUOGg0SllpdThlSjBTMDVTOVpaZHhqbmhQV1pNM0FUNFZ3VDYyM0pBSnVySmNCNjN6a0lYeXYzMlpxNGNXZ2loTmt4d3JhdXNCWXB0WUVRcWVnUnIyb1hpS3hwVFhZNUpKWHJkWWU3dXR2T3lIWF93WlBPX2gwNUNjTmczX2UzY1VYZmwwLWpQcnprYjlPSEE?oc=5",
       "published": "Tue, 23 Dec 2025 08:00:00 GMT",
       "matched_on": "minimum wage",
@@ -181,9 +167,9 @@
       ],
       "value": null,
       "severity": "medium",
-      "headline": "Turkey\u2019s hunger line nears 30,000 lira for family of 4 as minimum wage talks begin - Stockholm Center for Freedom",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeFFXd3k4TTZzbzdBUXJ4TkJiQXR2dVpDYkNJQnl2SFdrdENveEUzdGtPZVNxQlk3Qnhzc2w0QjZDOHV3bXA1VThSYmRlWTRzTXlPQmdZWHllSXJJT3ZKRjdfVkl5UVhJNndSMXdXOUR4UFdlRFFaMEVqcjZrZDJMQThvR3JPcnR4dGhFOURjUjZYbWxhTm9VYl9ndGU2bVphN1dUN1RCSkg?oc=5",
-      "published": "Mon, 15 Dec 2025 08:00:00 GMT",
+      "headline": "'Condemned to hunger': Turkey's below-inflation minimum wage rise sparks anger - middleeasteye.net",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQVByNEFlR05IWWhaODBpOVpJMFhCRkpwaXVfWTNpcUs1VDMtczJpY1FDdDZhaGtNZUhCUVJxdzhYanpZbmthWGNfQjNoZWNmZk5PejZRbFNHUURMMVFRSEtXV2JnQnFFMW00cUdoOTFHVGJPdE5UUXo3RTVaaVFXV1ZOVjd6Ukg4ZUZzd0lQRVo?oc=5",
+      "published": "Fri, 27 Dec 2024 08:00:00 GMT",
       "matched_on": "minimum wage",
       "method": "keyword rules"
     }
@@ -207,7 +193,7 @@
       "risk_factor": "Turkey minimum wage increase",
       "value": null,
       "severity": "medium",
-      "headline": "Turkey raises minimum wage by 27 percent, drawing sharp political backlash - turkishminute.com",
+      "headline": "Turkey raises minimum wage by 27 percent, drawing sharp political backlash - Turkish Minute",
       "method": "keyword rules"
     }
   }
