@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T09:41:37+00:00",
+  "generated_at": "2026-09-21T10:34:35+00:00",
   "classification_method": "keyword rules",
   "sources": {
     "exchange_rate": {
@@ -63,7 +63,7 @@
       ],
       "value": null,
       "severity": "medium",
-      "headline": "New return: Another container line is back in the Red Sea - freightwaves.com",
+      "headline": "New return: Another container line is back in the Red Sea - FreightWaves",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTEdJSlZhSFg0VmV2cEJhcFNzZjhZdHZBeUFGbFZNY05KSmNESHNvSERtWTJWS2tzWkVvc2NockJOTjVEejRoclFIZ25vYzZDbjRRTUVpRm9RQzdOdklDdDVZN29tWEd6TnAyYUlneUQtT3ZudGFRZktMRVFVcVY5VDBiOWcyZ1d6dGpIZU9UVTZ3dUNt?oc=5",
       "published": "Tue, 25 Aug 2026 07:00:00 GMT",
       "matched_on": "red sea",
@@ -79,22 +79,8 @@
       "severity": "medium",
       "headline": "Why Container Freight Rates Have Not Fallen as Expected in H2 2026 - Xinde Maritime News",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvbG9ETnZVMk5XUzU2aHBDUExpSU5YTmdVV0tLNnR6c3ktR3J6TlNjeWhwSkNkYURSWjdIVUFtNEJ5cmE4anM5SE1lNmU5cHpPb3Z1UW1OOVhqa3c2ZXdpZVBLZkJoYkE?oc=5",
-      "published": "Tue, 08 Sep 2026 05:11:47 GMT",
+      "published": "Mon, 07 Sep 2026 07:00:00 GMT",
       "matched_on": "freight rate",
-      "method": "keyword rules"
-    },
-    {
-      "risk_factor": "Red Sea shipping disruption",
-      "materials": [
-        "PA6",
-        "PP"
-      ],
-      "value": null,
-      "severity": "medium",
-      "headline": "The Chokepoint Premium: How the Strait of Hormuz and the Red Sea Are Raising the Cost of Global Trade - International Banker",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcDcxNEl6dnNmREtoR0k1bmlJTV8wRHkyeXZRYUp1cGZtRmRhWFRCN1VmdjBCbkUyRzJsV0VacGN0NDBsZUVNZ0RTS25qUE5HX0lMN3hxQ281VjN0dk5pZF8wNmFvd0hoUm9mVEpzd2R6SURhb2FNUzJSY0c2QnRrM3l1bzBmUW9xV3pwQlhHZG0zTVVHSlV0aENOTnVrNVZIeVRpNGs0VzBxbTI4SENLRkxzS3piODloOEtENEZoRk9UQlg2RHhrai1WVF95YXh6TWRVbQ?oc=5",
-      "published": "Wed, 12 Aug 2026 07:00:00 GMT",
-      "matched_on": "red sea",
       "method": "keyword rules"
     },
     {
