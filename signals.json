@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T10:05:50+00:00",
+  "generated_at": "2026-09-26T09:46:48+00:00",
   "source_file": "procurement_dataset.csv",
   "as_of": "2026-07-01",
   "scope": {
@@ -67,17 +67,17 @@
   "market_monitor": {
     "available": true,
     "drives_decision": false,
-    "generated_at": "2026-09-25T10:05:50+00:00",
+    "generated_at": "2026-09-26T09:46:47+00:00",
     "classification_method": "keyword rules",
     "exchange_rate": {
       "available": true,
       "source": "Turkish central bank daily reference rate",
       "pair": "USD/TRY",
-      "rate": 48.8549,
-      "rate_date": "2026-09-24",
-      "reference_rate": 48.1157,
-      "reference_date": "2026-08-26",
-      "change_pct": 1.54,
+      "rate": 48.878,
+      "rate_date": "2026-09-25",
+      "reference_rate": 48.1331,
+      "reference_date": "2026-08-27",
+      "change_pct": 1.55,
       "lookback_days": 30,
       "is_risk": false
     },
@@ -91,37 +91,9 @@
         ],
         "value": null,
         "severity": "medium",
-        "headline": "Container Rates Edge Lower Ahead of Golden Week as Suez Traffic Returns - gCaptain",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUzUzcUw2dGtDMkUydVdBd0lkeWJJZWp3MVhoNExpLTlqa05TWWpnWF9wUGZBTnFpOWdZcjY3ZFlsSkhjYTl0RUVxdmxyb2xqNG5PaDROWlFkVkdLMjljcDEzZjBiZU1FcHVnS1h3b3RlSmdoQXEtU2VuemxhYV9VZHFKQ18wQVpXaFNwbmhfOHBhYmxnaGJTMw?oc=5",
-        "published": "Thu, 24 Sep 2026 16:06:10 GMT",
-        "matched_on": "suez",
-        "method": "keyword rules"
-      },
-      {
-        "risk_factor": "Red Sea shipping disruption",
-        "materials": [
-          "PA6",
-          "PP"
-        ],
-        "value": null,
-        "severity": "medium",
         "headline": "Maersk stock surges on higher freight rates - Transport Topics",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iUE15VHVydm9sODNGOEU0enI1LVRFSTAzZnZ1QVJBUXJpeVBnTmhCbFJXQjZIMGljNzJXTVg5S3JweFNnRnZuNzBCQ2RDbDFGVkVRN2todnNzMFhVTlVfUHc1MjN4anktVnc?oc=5",
         "published": "Tue, 15 Sep 2026 13:20:18 GMT",
-        "matched_on": "freight rate",
-        "method": "keyword rules"
-      },
-      {
-        "risk_factor": "Red Sea shipping disruption",
-        "materials": [
-          "PA6",
-          "PP"
-        ],
-        "value": null,
-        "severity": "medium",
-        "headline": "Ocean freight rates cool despite continued price elevation - Supply Chain Dive",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRkl2Z1REd0JvNDJ4aVB2bjIyQk53RFZUNGxuc3RSVHdGWGExVk5ZR2RJU1FLTTI0OXpWbzVfRmo3bUFDcHdIV0IzQ2FrUDR0bWlTdHBsUl9LbXdLMzlUQno3Rk83c1hlXzhrdFlIbi16TG1XdlFLZkotSFVfclFfOTdzRmM5RHViVkl2VWpQUmtvdU56NzN6VW5KQnJBNUVtWHB4a0J3?oc=5",
-        "published": "Wed, 09 Sep 2026 07:00:00 GMT",
         "matched_on": "freight rate",
         "method": "keyword rules"
       },
@@ -147,10 +119,38 @@
         ],
         "value": null,
         "severity": "medium",
-        "headline": "US AND ISRAEL MILITARY STRIKES AGAINST IRAN SHATTER PROSPECTS OF CONTAINER SHIPPING RETURN TO RED SEA - Xeneta",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQmVwRXFGcmp1YTI1QmFOc1YyUk5KbXZCdFVBWnNEMWpZeXRuc3NDbEJBMlp0RWdIUjZUT3RQajJEamo0Zi1kcHh1eVhweWRBTjgyam5iclhRYkJpNTg2LWJXbV90WXZsdW9Vd1d3R2daRmdSMXNsWTZSUTFfUjBKeEhMU2U2WktERXZIcXpVTlEtNm9MVkZkTXNZQk5nSDVfYjBvWWEtZndLZkR0X181ZlZNa0V1ak1wZDA4ZWN5SFBPdnplR3FwWlF3eVc?oc=5",
-        "published": "Sat, 28 Feb 2026 17:31:12 GMT",
+        "headline": "New return: Another container line is back in the Red Sea - FreightWaves",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTEdJSlZhSFg0VmV2cEJhcFNzZjhZdHZBeUFGbFZNY05KSmNESHNvSERtWTJWS2tzWkVvc2NockJOTjVEejRoclFIZ25vYzZDbjRRTUVpRm9RQzdOdklDdDVZN29tWEd6TnAyYUlneUQtT3ZudGFRZktMRVFVcVY5VDBiOWcyZ1d6dGpIZU9UVTZ3dUNt?oc=5",
+        "published": "Tue, 25 Aug 2026 07:00:00 GMT",
         "matched_on": "red sea",
+        "method": "keyword rules"
+      },
+      {
+        "risk_factor": "Red Sea shipping disruption",
+        "materials": [
+          "PA6",
+          "PP"
+        ],
+        "value": null,
+        "severity": "medium",
+        "headline": "The Chokepoint Premium: How the Strait of Hormuz and the Red Sea Are Raising the Cost of Global Trade - International Banker",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcDcxNEl6dnNmREtoR0k1bmlJTV8wRHkyeXZRYUp1cGZtRmRhWFRCN1VmdjBCbkUyRzJsV0VacGN0NDBsZUVNZ0RTS25qUE5HX0lMN3hxQ281VjN0dk5pZF8wNmFvd0hoUm9mVEpzd2R6SURhb2FNUzJSY0c2QnRrM3l1bzBmUW9xV3pwQlhHZG0zTVVHSlV0aENOTnVrNVZIeVRpNGs0VzBxbTI4SENLRkxzS3piODloOEtENEZoRk9UQlg2RHhrai1WVF95YXh6TWRVbQ?oc=5",
+        "published": "Wed, 12 Aug 2026 07:00:00 GMT",
+        "matched_on": "red sea",
+        "method": "keyword rules"
+      },
+      {
+        "risk_factor": "Red Sea shipping disruption",
+        "materials": [
+          "PA6",
+          "PP"
+        ],
+        "value": null,
+        "severity": "medium",
+        "headline": "Freight Rates Rally on Early Peak Season Demand - czapp.com",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcHlpQzhoSkJ1MGxHeGdLUGY1VmdLTVZTQmFFVmhzNDk3TXk1V3B1YWhzRElWUUZPaXMyOTlNVXQ5SDNEX3hhN0dQeE1CRjZBTHMtOFpwdmVDaE5qakI3cVRWUUtjSWY0bGVkSzk2UzNTRVd6MXpJYXZnTXJZQzNkUURTU1d6b2lUSk9SV251SDY?oc=5",
+        "published": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "matched_on": "freight rate",
         "method": "keyword rules"
       },
       {
@@ -187,7 +187,7 @@
         "risk_factor": "Red Sea shipping disruption",
         "value": null,
         "severity": "medium",
-        "headline": "Container Rates Edge Lower Ahead of Golden Week as Suez Traffic Returns - gCaptain",
+        "headline": "Maersk stock surges on higher freight rates - Transport Topics",
         "method": "keyword rules"
       },
       "signal": "Buy now",
@@ -250,7 +250,7 @@
         "risk_factor": "Red Sea shipping disruption",
         "value": null,
         "severity": "medium",
-        "headline": "Container Rates Edge Lower Ahead of Golden Week as Suez Traffic Returns - gCaptain",
+        "headline": "Maersk stock surges on higher freight rates - Transport Topics",
         "method": "keyword rules"
       },
       "signal": "Buy now",
