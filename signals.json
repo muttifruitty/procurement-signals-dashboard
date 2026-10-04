@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T10:18:42+00:00",
+  "generated_at": "2026-10-04T11:02:06+00:00",
   "source_file": "procurement_dataset.csv",
   "as_of": "2026-07-01",
   "scope": {
@@ -67,7 +67,7 @@
   "market_monitor": {
     "available": true,
     "drives_decision": false,
-    "generated_at": "2026-10-03T10:18:42+00:00",
+    "generated_at": "2026-10-04T11:02:06+00:00",
     "classification_method": "keyword rules",
     "exchange_rate": {
       "available": true,
@@ -75,9 +75,9 @@
       "pair": "USD/TRY",
       "rate": 49.0582,
       "rate_date": "2026-10-02",
-      "reference_rate": 48.3107,
-      "reference_date": "2026-09-03",
-      "change_pct": 1.55,
+      "reference_rate": 48.3195,
+      "reference_date": "2026-09-04",
+      "change_pct": 1.53,
       "lookback_days": 30,
       "is_risk": false
     },
@@ -105,10 +105,24 @@
         ],
         "value": null,
         "severity": "medium",
-        "headline": "News Gemini's second Asia-Med service back to Suez, as CMA tries to prop up rates - The Loadstar",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN19tRVA4Z1dma0hoVjc5QjBwX3VqeDZsdDFsRm12OVg5NlBpOXR1QVRzbXFTck9VN180ZU9NOXM5REU2SXd5OTBqRDg1ckZ4eVNNdmpadmhaUTBuekFvSXpjcDRMUjg4YXQ0aUFfTjlFNTU1X2ZaMm1QLXg1Q2hZRkZhWG5nRkduNk80OE81WEV4bFMtTXBkWVc3NA?oc=5",
-        "published": "Mon, 28 Sep 2026 12:26:58 GMT",
-        "matched_on": "suez",
+        "headline": "Ocean freight market turns red hot, prompting freight rate rally - Scan Global Logistics",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYU5Cc0o3ZlBMSXlKMnVLOWJsUndjU2VJdnRaNnVlOHBvNnk0cHMzT3JQRlVzcmpLR0FuWVQyVFk1dF9RVlo0Vm1fUHM3STdqSzNWRzZRSEhtbFB0bjJJc0otNEtiM2d6VXF2YTdqVGVtcVdNWWp1dnRfVHExeEg3MVNYc2xFVHRVRWE2bEZ0NmlPUjZtbTBR?oc=5",
+        "published": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "matched_on": "freight rate",
+        "method": "keyword rules"
+      },
+      {
+        "risk_factor": "Red Sea shipping disruption",
+        "materials": [
+          "PA6",
+          "PP"
+        ],
+        "value": null,
+        "severity": "medium",
+        "headline": "US AND ISRAEL MILITARY STRIKES AGAINST IRAN SHATTER PROSPECTS OF CONTAINER SHIPPING RETURN TO RED SEA - Xeneta",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQmVwRXFGcmp1YTI1QmFOc1YyUk5KbXZCdFVBWnNEMWpZeXRuc3NDbEJBMlp0RWdIUjZUT3RQajJEamo0Zi1kcHh1eVhweWRBTjgyam5iclhRYkJpNTg2LWJXbV90WXZsdW9Vd1d3R2daRmdSMXNsWTZSUTFfUjBKeEhMU2U2WktERXZIcXpVTlEtNm9MVkZkTXNZQk5nSDVfYjBvWWEtZndLZkR0X181ZlZNa0V1ak1wZDA4ZWN5SFBPdnplR3FwWlF3eVc?oc=5",
+        "published": "Sat, 28 Feb 2026 17:31:12 GMT",
+        "matched_on": "red sea",
         "method": "keyword rules"
       },
       {
@@ -137,20 +151,6 @@
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcHlpQzhoSkJ1MGxHeGdLUGY1VmdLTVZTQmFFVmhzNDk3TXk1V3B1YWhzRElWUUZPaXMyOTlNVXQ5SDNEX3hhN0dQeE1CRjZBTHMtOFpwdmVDaE5qakI3cVRWUUtjSWY0bGVkSzk2UzNTRVd6MXpJYXZnTXJZQzNkUURTU1d6b2lUSk9SV251SDY?oc=5",
         "published": "Wed, 15 Jul 2026 07:00:00 GMT",
         "matched_on": "freight rate",
-        "method": "keyword rules"
-      },
-      {
-        "risk_factor": "Red Sea shipping disruption",
-        "materials": [
-          "PA6",
-          "PP"
-        ],
-        "value": null,
-        "severity": "medium",
-        "headline": "The Chokepoint Premium: How the Strait of Hormuz and the Red Sea Are Raising the Cost of Global Trade - internationalbanker.com",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcDcxNEl6dnNmREtoR0k1bmlJTV8wRHkyeXZRYUp1cGZtRmRhWFRCN1VmdjBCbkUyRzJsV0VacGN0NDBsZUVNZ0RTS25qUE5HX0lMN3hxQ281VjN0dk5pZF8wNmFvd0hoUm9mVEpzd2R6SURhb2FNUzJSY0c2QnRrM3l1bzBmUW9xV3pwQlhHZG0zTVVHSlV0aENOTnVrNVZIeVRpNGs0VzBxbTI4SENLRkxzS3piODloOEtENEZoRk9UQlg2RHhrai1WVF95YXh6TWRVbQ?oc=5",
-        "published": "Wed, 12 Aug 2026 07:00:00 GMT",
-        "matched_on": "red sea",
         "method": "keyword rules"
       },
       {
