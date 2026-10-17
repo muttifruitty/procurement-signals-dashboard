@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-16T09:36:44+00:00",
+  "generated_at": "2026-10-17T09:07:52+00:00",
   "classification_method": "keyword rules",
   "sources": {
     "exchange_rate": {
       "available": true,
       "source": "Turkish central bank daily reference rate",
       "pair": "USD/TRY",
-      "rate": 49.4204,
-      "rate_date": "2026-10-15",
-      "reference_rate": 48.6654,
-      "reference_date": "2026-09-16",
-      "change_pct": 1.55,
+      "rate": 49.4463,
+      "rate_date": "2026-10-16",
+      "reference_rate": 48.6749,
+      "reference_date": "2026-09-17",
+      "change_pct": 1.58,
       "lookback_days": 30,
       "is_risk": false
     },
@@ -35,9 +35,9 @@
       ],
       "value": null,
       "severity": "medium",
-      "headline": "Red Sea Crisis: Impact on Shipping Costs and Freight Rates - Grand View Research",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORUc4ZnBZRzdSeWpVWndHVlhxYWE4QXRaN3F1UHN5UGEtNHZHRUNRLWlCSkdGMjFkVW1FRWhDdE1ySTBqMmtfY25EUTZyU0ZOSGlweWpyUFd5WTJYd2x4enp1dFF4UTJ1NFVJanVmNnpSSHF5WTlzcXg5OEhfeHdwQzFBdVBLS1BfV1ZVSmdHX3lTNHAwemQ2YTBzNA?oc=5",
-      "published": "Thu, 15 Oct 2026 11:19:38 GMT",
+      "headline": "News Shippers stressing over risks from Suez Canal and Red Sea transits - The Loadstar",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdjQ4azJ2UWFoRWpuYVR4X1RKdHAwVkF1azZHX3IzYXNYSXBRbURiWjdkSzl2SEpHdzJIU2ZwVkJPSGFoZHlpclhGVE9FcGRxeWFpTU9hbGl1NktDcHFSU0l6Z09FOUZXTlpVaWZKdFBSazA4LUk5X0pjSmNPQ0hLQzE0dUtkSmpHOW5TRlFTdm9Nd0ZESnc?oc=5",
+      "published": "Mon, 12 Oct 2026 12:54:33 GMT",
       "matched_on": "red sea",
       "method": "keyword rules"
     },
@@ -63,10 +63,10 @@
       ],
       "value": null,
       "severity": "medium",
-      "headline": "Container Rates Edge Lower Ahead of Golden Week as Suez Traffic Returns - gCaptain",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUzUzcUw2dGtDMkUydVdBd0lkeWJJZWp3MVhoNExpLTlqa05TWWpnWF9wUGZBTnFpOWdZcjY3ZFlsSkhjYTl0RUVxdmxyb2xqNG5PaDROWlFkVkdLMjljcDEzZjBiZU1FcHVnS1h3b3RlSmdoQXEtU2VuemxhYV9VZHFKQ18wQVpXaFNwbmhfOHBhYmxnaGJTMw?oc=5",
-      "published": "Thu, 24 Sep 2026 07:00:00 GMT",
-      "matched_on": "suez",
+      "headline": "Port congestion and Red Sea risks keep container shipping under pressure - Kuehne+Nagel",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVnFnVEpJd09lNUtPeEI0a0N1aGpZdTQwWlNLcm5EVm14TnVJMGJPb2xkYUN6WTRwYVgySmtQOWhtX1ZjR0VTRXVOWUV0Nkx4Q1ZySTVLUTlJR2RVRzczWUVjb1BrNFpacU1nNkp3UGV5N2dxYWpCX2RPVS1NdGZhMnRKYmNtRjNO?oc=5",
+      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+      "matched_on": "red sea",
       "method": "keyword rules"
     },
     {
@@ -77,10 +77,10 @@
       ],
       "value": null,
       "severity": "medium",
-      "headline": "Port congestion and Red Sea risks keep container shipping under pressure - Kuehne+Nagel",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVnFnVEpJd09lNUtPeEI0a0N1aGpZdTQwWlNLcm5EVm14TnVJMGJPb2xkYUN6WTRwYVgySmtQOWhtX1ZjR0VTRXVOWUV0Nkx4Q1ZySTVLUTlJR2RVRzczWUVjb1BrNFpacU1nNkp3UGV5N2dxYWpCX2RPVS1NdGZhMnRKYmNtRjNO?oc=5",
-      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
-      "matched_on": "red sea",
+      "headline": "Container Rates Edge Lower Ahead of Golden Week as Suez Traffic Returns - gCaptain",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUzUzcUw2dGtDMkUydVdBd0lkeWJJZWp3MVhoNExpLTlqa05TWWpnWF9wUGZBTnFpOWdZcjY3ZFlsSkhjYTl0RUVxdmxyb2xqNG5PaDROWlFkVkdLMjljcDEzZjBiZU1FcHVnS1h3b3RlSmdoQXEtU2VuemxhYV9VZHFKQ18wQVpXaFNwbmhfOHBhYmxnaGJTMw?oc=5",
+      "published": "Thu, 24 Sep 2026 07:00:00 GMT",
+      "matched_on": "suez",
       "method": "keyword rules"
     },
     {
@@ -207,14 +207,14 @@
       "risk_factor": "Red Sea shipping disruption",
       "value": null,
       "severity": "medium",
-      "headline": "Red Sea Crisis: Impact on Shipping Costs and Freight Rates - Grand View Research",
+      "headline": "News Shippers stressing over risks from Suez Canal and Red Sea transits - The Loadstar",
       "method": "keyword rules"
     },
     "PA6": {
       "risk_factor": "Red Sea shipping disruption",
       "value": null,
       "severity": "medium",
-      "headline": "Red Sea Crisis: Impact on Shipping Costs and Freight Rates - Grand View Research",
+      "headline": "News Shippers stressing over risks from Suez Canal and Red Sea transits - The Loadstar",
       "method": "keyword rules"
     },
     "Steel": {
