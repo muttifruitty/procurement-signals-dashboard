@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T09:25:13+00:00",
+  "generated_at": "2026-10-19T10:38:29+00:00",
   "source_file": "procurement_dataset.csv",
   "as_of": "2026-07-01",
   "scope": {
@@ -67,7 +67,7 @@
   "market_monitor": {
     "available": true,
     "drives_decision": false,
-    "generated_at": "2026-10-18T09:25:13+00:00",
+    "generated_at": "2026-10-19T10:38:29+00:00",
     "classification_method": "keyword rules",
     "exchange_rate": {
       "available": true,
@@ -91,10 +91,10 @@
         ],
         "value": null,
         "severity": "medium",
-        "headline": "News Shippers stressing over risks from Suez Canal and Red Sea transits - The Loadstar",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdjQ4azJ2UWFoRWpuYVR4X1RKdHAwVkF1azZHX3IzYXNYSXBRbURiWjdkSzl2SEpHdzJIU2ZwVkJPSGFoZHlpclhGVE9FcGRxeWFpTU9hbGl1NktDcHFSU0l6Z09FOUZXTlpVaWZKdFBSazA4LUk5X0pjSmNPQ0hLQzE0dUtkSmpHOW5TRlFTdm9Nd0ZESnc?oc=5",
-        "published": "Mon, 12 Oct 2026 12:54:33 GMT",
-        "matched_on": "red sea",
+        "headline": "Houthi attacks add new geopolitical risk to softening container rates - FreightWaves",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVnNUZ01hZEtXTzVpZXhNazBiUjVVcHlLZ1hFMlgzallPNy1zU0xTZ25aN3BfdkhSMnF0ZFIxWmE5VlItekF2cV9YRlUxNlBvUzUyaGxGNmNxZzZqbHNMSXAyZHpmTWtjVVBHV3NNNy1fQTRiZkhoUW1waUFNX0ItN3Z2UjR1RmNJalFvQzd2RUE1T1BUWGdtVzJUd2dxei0xMkc3Y2NB?oc=5",
+        "published": "Wed, 14 Oct 2026 17:46:53 GMT",
+        "matched_on": "houthi",
         "method": "keyword rules"
       },
       {
@@ -105,10 +105,10 @@
         ],
         "value": null,
         "severity": "medium",
-        "headline": "Houthi attacks add new geopolitical risk to softening container rates - FreightWaves",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVnNUZ01hZEtXTzVpZXhNazBiUjVVcHlLZ1hFMlgzallPNy1zU0xTZ25aN3BfdkhSMnF0ZFIxWmE5VlItekF2cV9YRlUxNlBvUzUyaGxGNmNxZzZqbHNMSXAyZHpmTWtjVVBHV3NNNy1fQTRiZkhoUW1waUFNX0ItN3Z2UjR1RmNJalFvQzd2RUE1T1BUWGdtVzJUd2dxei0xMkc3Y2NB?oc=5",
-        "published": "Wed, 14 Oct 2026 17:46:53 GMT",
-        "matched_on": "houthi",
+        "headline": "News Shippers stressing over risks from Suez Canal and Red Sea transits - The Loadstar",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdjQ4azJ2UWFoRWpuYVR4X1RKdHAwVkF1azZHX3IzYXNYSXBRbURiWjdkSzl2SEpHdzJIU2ZwVkJPSGFoZHlpclhGVE9FcGRxeWFpTU9hbGl1NktDcHFSU0l6Z09FOUZXTlpVaWZKdFBSazA4LUk5X0pjSmNPQ0hLQzE0dUtkSmpHOW5TRlFTdm9Nd0ZESnc?oc=5",
+        "published": "Mon, 12 Oct 2026 12:54:33 GMT",
+        "matched_on": "red sea",
         "method": "keyword rules"
       },
       {
@@ -133,6 +133,20 @@
         ],
         "value": null,
         "severity": "medium",
+        "headline": "Container Rates Edge Lower Ahead of Golden Week as Suez Traffic Returns - gCaptain",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUzUzcUw2dGtDMkUydVdBd0lkeWJJZWp3MVhoNExpLTlqa05TWWpnWF9wUGZBTnFpOWdZcjY3ZFlsSkhjYTl0RUVxdmxyb2xqNG5PaDROWlFkVkdLMjljcDEzZjBiZU1FcHVnS1h3b3RlSmdoQXEtU2VuemxhYV9VZHFKQ18wQVpXaFNwbmhfOHBhYmxnaGJTMw?oc=5",
+        "published": "Thu, 24 Sep 2026 07:00:00 GMT",
+        "matched_on": "suez",
+        "method": "keyword rules"
+      },
+      {
+        "risk_factor": "Red Sea shipping disruption",
+        "materials": [
+          "PA6",
+          "PP"
+        ],
+        "value": null,
+        "severity": "medium",
         "headline": "Ocean freight market turns red hot, prompting freight rate rally - Scan Global Logistics",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYU5Cc0o3ZlBMSXlKMnVLOWJsUndjU2VJdnRaNnVlOHBvNnk0cHMzT3JQRlVzcmpLR0FuWVQyVFk1dF9RVlo0Vm1fUHM3STdqSzNWRzZRSEhtbFB0bjJJc0otNEtiM2d6VXF2YTdqVGVtcVdNWWp1dnRfVHExeEg3MVNYc2xFVHRVRWE2bEZ0NmlPUjZtbTBR?oc=5",
         "published": "Wed, 08 Jul 2026 07:00:00 GMT",
@@ -147,25 +161,10 @@
         ],
         "value": null,
         "severity": "medium",
-        "headline": "US AND ISRAEL MILITARY STRIKES AGAINST IRAN SHATTER PROSPECTS OF CONTAINER SHIPPING RETURN TO RED SEA - Xeneta",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQmVwRXFGcmp1YTI1QmFOc1YyUk5KbXZCdFVBWnNEMWpZeXRuc3NDbEJBMlp0RWdIUjZUT3RQajJEamo0Zi1kcHh1eVhweWRBTjgyam5iclhRYkJpNTg2LWJXbV90WXZsdW9Vd1d3R2daRmdSMXNsWTZSUTFfUjBKeEhMU2U2WktERXZIcXpVTlEtNm9MVkZkTXNZQk5nSDVfYjBvWWEtZndLZkR0X181ZlZNa0V1ak1wZDA4ZWN5SFBPdnplR3FwWlF3eVc?oc=5",
-        "published": "Sat, 28 Feb 2026 17:31:12 GMT",
+        "headline": "The Chokepoint Premium: How the Strait of Hormuz and the Red Sea Are Raising the Cost of Global Trade - International Banker",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcDcxNEl6dnNmREtoR0k1bmlJTV8wRHkyeXZRYUp1cGZtRmRhWFRCN1VmdjBCbkUyRzJsV0VacGN0NDBsZUVNZ0RTS25qUE5HX0lMN3hxQ281VjN0dk5pZF8wNmFvd0hoUm9mVEpzd2R6SURhb2FNUzJSY0c2QnRrM3l1bzBmUW9xV3pwQlhHZG0zTVVHSlV0aENOTnVrNVZIeVRpNGs0VzBxbTI4SENLRkxzS3piODloOEtENEZoRk9UQlg2RHhrai1WVF95YXh6TWRVbQ?oc=5",
+        "published": "Wed, 12 Aug 2026 07:00:00 GMT",
         "matched_on": "red sea",
-        "method": "keyword rules"
-      },
-      {
-        "risk_factor": "Turkey minimum wage increase",
-        "materials": [
-          "PP",
-          "PA6",
-          "Steel"
-        ],
-        "value": null,
-        "severity": "medium",
-        "headline": "Turkey raises minimum wage by 27 percent, drawing sharp political backlash - Turkish Minute",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY3VJWWwyQ2h5NWJrd3dacE5HdmlENWliWDQ3UUZjR1VOMlBVLXAtWEZnVUU1QVU0bXlPUHRPdlZfLThJQ3E2THRHSVRVQnF3cDkydDcySVczSnBuU0UyeTZHQkRhU1Bxa2JLckVSQ0YxOTZiZFNQbWJ6UDczNFdXT0o3NEx3S1lsNTVRR2Z6Wjh1YVhzM2ZEN0ticlViZWMzOE1IdGN4X1Z5eU4wMjlDWDNfbE5iUdIBuwFBVV95cUxNc3hFRU1PQUxEbkFUcjcxeVlWWno1dTN4QXlxZl9uNDFpcUlQdGotMTJQMDN3Yi05T09pX2pNQTZqVnNSdzR3ZmJMZWxpa0dHVVRSYThzTnpjazhjbTJYX2xYMFZsWHQ5dmR5R2h3dm9nUEdCNXl0QlVWOVpWX2RUVTkzNnFQSk5QTE9JeXRvMkpjcmNJZW8xUGZzOHRxOHpmT0I5blItS2Z2cjJwWmlmU3BSc3BPdzc2bU1j?oc=5",
-        "published": "Wed, 24 Dec 2025 08:00:00 GMT",
-        "matched_on": "minimum wage",
         "method": "keyword rules"
       }
     ]
@@ -187,7 +186,7 @@
         "risk_factor": "Red Sea shipping disruption",
         "value": null,
         "severity": "medium",
-        "headline": "News Shippers stressing over risks from Suez Canal and Red Sea transits - The Loadstar",
+        "headline": "Houthi attacks add new geopolitical risk to softening container rates - FreightWaves",
         "method": "keyword rules"
       },
       "signal": "Buy now",
@@ -250,7 +249,7 @@
         "risk_factor": "Red Sea shipping disruption",
         "value": null,
         "severity": "medium",
-        "headline": "News Shippers stressing over risks from Suez Canal and Red Sea transits - The Loadstar",
+        "headline": "Houthi attacks add new geopolitical risk to softening container rates - FreightWaves",
         "method": "keyword rules"
       },
       "signal": "Buy now",
