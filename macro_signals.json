@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-22T09:58:04+00:00",
+  "generated_at": "2026-10-23T09:52:49+00:00",
   "classification_method": "keyword rules",
   "sources": {
     "exchange_rate": {
       "available": true,
       "source": "Turkish central bank daily reference rate",
       "pair": "USD/TRY",
-      "rate": 49.6015,
-      "rate_date": "2026-10-21",
-      "reference_rate": 48.8201,
-      "reference_date": "2026-09-22",
-      "change_pct": 1.6,
+      "rate": 49.6281,
+      "rate_date": "2026-10-22",
+      "reference_rate": 48.8377,
+      "reference_date": "2026-09-23",
+      "change_pct": 1.62,
       "lookback_days": 30,
       "is_risk": false
     },
@@ -63,10 +63,10 @@
       ],
       "value": null,
       "severity": "medium",
-      "headline": "Container peak season arrives early as freight rates skyrocket - Seatrade Maritime News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcGp1TC1kcEJLdkc3ZnJmREMyTWg0Nl92UDFFS3BQNk5SMWViNnZnUC1ya3NpSzRlVzdYWWNYWUV2V01sR213bDg0b2c3Ymh3WmU5NzJqd2k1NlNuNzEzaktfeE02cWFlY0RzaElmUl9LZEZHcnA4SEx5RF9xNUgtVEZxTE9xdVlIM1hNV3hmUGtER0tIX3lXV3RESXRJR2c1ak5GYTZlWDlDSE0?oc=5",
-      "published": "Thu, 04 Jun 2026 07:00:00 GMT",
-      "matched_on": "freight rate",
+      "headline": "US AND ISRAEL MILITARY STRIKES AGAINST IRAN SHATTER PROSPECTS OF CONTAINER SHIPPING RETURN TO RED SEA - Xeneta",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQmVwRXFGcmp1YTI1QmFOc1YyUk5KbXZCdFVBWnNEMWpZeXRuc3NDbEJBMlp0RWdIUjZUT3RQajJEamo0Zi1kcHh1eVhweWRBTjgyam5iclhRYkJpNTg2LWJXbV90WXZsdW9Vd1d3R2daRmdSMXNsWTZSUTFfUjBKeEhMU2U2WktERXZIcXpVTlEtNm9MVkZkTXNZQk5nSDVfYjBvWWEtZndLZkR0X181ZlZNa0V1ak1wZDA4ZWN5SFBPdnplR3FwWlF3eVc?oc=5",
+      "published": "Sat, 28 Feb 2026 17:31:12 GMT",
+      "matched_on": "red sea",
       "method": "keyword rules"
     },
     {
@@ -123,21 +123,6 @@
       ],
       "value": null,
       "severity": "medium",
-      "headline": "Turkey Raises Minimum Wage by 27%, in Line With Expectations - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYnRWcjY3TDlBSElBc1cyeGdRbXlDNkxUOGg0SllpdThlSjBTMDVTOVpaZHhqbmhQV1pNM0FUNFZ3VDYyM0pBSnVySmNCNjN6a0lYeXYzMlpxNGNXZ2loTmt4d3JhdXNCWXB0WUVRcWVnUnIyb1hpS3hwVFhZNUpKWHJkWWU3dXR2T3lIWF93WlBPX2gwNUNjTmczX2UzY1VYZmwwLWpQcnprYjlPSEE?oc=5",
-      "published": "Tue, 23 Dec 2025 08:00:00 GMT",
-      "matched_on": "minimum wage",
-      "method": "keyword rules"
-    },
-    {
-      "risk_factor": "Turkey minimum wage increase",
-      "materials": [
-        "PP",
-        "PA6",
-        "Steel"
-      ],
-      "value": null,
-      "severity": "medium",
       "headline": "'Condemned to hunger': Turkey's below-inflation minimum wage rise sparks anger - Middle East Eye",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQVByNEFlR05IWWhaODBpOVpJMFhCRkpwaXVfWTNpcUs1VDMtczJpY1FDdDZhaGtNZUhCUVJxdzhYanpZbmthWGNfQjNoZWNmZk5PejZRbFNHUURMMVFRSEtXV2JnQnFFMW00cUdoOTFHVGJPdE5UUXo3RTVaaVFXV1ZOVjd6Ukg4ZUZzd0lQRVo?oc=5",
       "published": "Fri, 27 Dec 2024 08:00:00 GMT",
@@ -153,9 +138,24 @@
       ],
       "value": null,
       "severity": "medium",
-      "headline": "Turkey\u2019s hunger line nears 30,000 lira for family of 4 as minimum wage talks begin - Stockholm Center for Freedom",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeFFXd3k4TTZzbzdBUXJ4TkJiQXR2dVpDYkNJQnl2SFdrdENveEUzdGtPZVNxQlk3Qnhzc2w0QjZDOHV3bXA1VThSYmRlWTRzTXlPQmdZWHllSXJJT3ZKRjdfVkl5UVhJNndSMXdXOUR4UFdlRFFaMEVqcjZrZDJMQThvR3JPcnR4dGhFOURjUjZYbWxhTm9VYl9ndGU2bVphN1dUN1RCSkg?oc=5",
-      "published": "Mon, 15 Dec 2025 08:00:00 GMT",
+      "headline": "Turkey Raises Minimum Wage by 27%, in Line With Expectations - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYnRWcjY3TDlBSElBc1cyeGdRbXlDNkxUOGg0SllpdThlSjBTMDVTOVpaZHhqbmhQV1pNM0FUNFZ3VDYyM0pBSnVySmNCNjN6a0lYeXYzMlpxNGNXZ2loTmt4d3JhdXNCWXB0WUVRcWVnUnIyb1hpS3hwVFhZNUpKWHJkWWU3dXR2T3lIWF93WlBPX2gwNUNjTmczX2UzY1VYZmwwLWpQcnprYjlPSEE?oc=5",
+      "published": "Tue, 23 Dec 2025 08:00:00 GMT",
+      "matched_on": "minimum wage",
+      "method": "keyword rules"
+    },
+    {
+      "risk_factor": "Turkey minimum wage increase",
+      "materials": [
+        "PP",
+        "PA6",
+        "Steel"
+      ],
+      "value": null,
+      "severity": "medium",
+      "headline": "Erdo\u011fan government escalates the class war over minimum wage - World Socialist Web Site",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vVUxZazY0amJrd2liRmFMYUhHMmRuaVB3SmdCb1lpSHcxdXEyWUtqWEN4NzBrZW9fOTZaNUpSVlBnUDhQb2FMQzZqVGtCTFpFVTNpdFI5VDFUTE1KdVNTNWdMc2dZSDJJ?oc=5",
+      "published": "Wed, 03 Dec 2025 08:00:00 GMT",
       "matched_on": "minimum wage",
       "method": "keyword rules"
     }
