@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T09:52:49+00:00",
+  "generated_at": "2026-10-24T09:22:35+00:00",
   "source_file": "procurement_dataset.csv",
   "as_of": "2026-07-01",
   "scope": {
@@ -67,17 +67,17 @@
   "market_monitor": {
     "available": true,
     "drives_decision": false,
-    "generated_at": "2026-10-23T09:52:49+00:00",
+    "generated_at": "2026-10-24T09:22:35+00:00",
     "classification_method": "keyword rules",
     "exchange_rate": {
       "available": true,
       "source": "Turkish central bank daily reference rate",
       "pair": "USD/TRY",
-      "rate": 49.6281,
-      "rate_date": "2026-10-22",
-      "reference_rate": 48.8377,
-      "reference_date": "2026-09-23",
-      "change_pct": 1.62,
+      "rate": 49.654,
+      "rate_date": "2026-10-23",
+      "reference_rate": 48.8549,
+      "reference_date": "2026-09-24",
+      "change_pct": 1.64,
       "lookback_days": 30,
       "is_risk": false
     },
@@ -119,10 +119,10 @@
         ],
         "value": null,
         "severity": "medium",
-        "headline": "US AND ISRAEL MILITARY STRIKES AGAINST IRAN SHATTER PROSPECTS OF CONTAINER SHIPPING RETURN TO RED SEA - Xeneta",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQmVwRXFGcmp1YTI1QmFOc1YyUk5KbXZCdFVBWnNEMWpZeXRuc3NDbEJBMlp0RWdIUjZUT3RQajJEamo0Zi1kcHh1eVhweWRBTjgyam5iclhRYkJpNTg2LWJXbV90WXZsdW9Vd1d3R2daRmdSMXNsWTZSUTFfUjBKeEhMU2U2WktERXZIcXpVTlEtNm9MVkZkTXNZQk5nSDVfYjBvWWEtZndLZkR0X181ZlZNa0V1ak1wZDA4ZWN5SFBPdnplR3FwWlF3eVc?oc=5",
-        "published": "Sat, 28 Feb 2026 17:31:12 GMT",
-        "matched_on": "red sea",
+        "headline": "Container peak season arrives early as freight rates skyrocket - Seatrade Maritime News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcGp1TC1kcEJLdkc3ZnJmREMyTWg0Nl92UDFFS3BQNk5SMWViNnZnUC1ya3NpSzRlVzdYWWNYWUV2V01sR213bDg0b2c3Ymh3WmU5NzJqd2k1NlNuNzEzaktfeE02cWFlY0RzaElmUl9LZEZHcnA4SEx5RF9xNUgtVEZxTE9xdVlIM1hNV3hmUGtER0tIX3lXV3RESXRJR2c1ak5GYTZlWDlDSE0?oc=5",
+        "published": "Thu, 04 Jun 2026 07:00:00 GMT",
+        "matched_on": "freight rate",
         "method": "keyword rules"
       },
       {
