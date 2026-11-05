@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-04T12:52:23+00:00",
+  "generated_at": "2026-11-05T13:00:24+00:00",
   "classification_method": "keyword rules",
   "sources": {
     "exchange_rate": {
       "available": true,
       "source": "Turkish central bank daily reference rate",
       "pair": "USD/TRY",
-      "rate": 50.026,
-      "rate_date": "2026-11-04",
-      "reference_rate": 49.1616,
-      "reference_date": "2026-10-05",
-      "change_pct": 1.76,
+      "rate": 50.0489,
+      "rate_date": "2026-11-05",
+      "reference_rate": 49.1802,
+      "reference_date": "2026-10-06",
+      "change_pct": 1.77,
       "lookback_days": 30,
       "is_risk": false
     },
@@ -35,10 +35,38 @@
       ],
       "value": null,
       "severity": "medium",
+      "headline": "Xeneta forecasts 30% fall in container spot rates in 2027 as Red Sea capacity returns - Container Management",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWDdDa0JybkludUhkekE2UUhZcGd0ZmtWbmZzNFUzSlUxNjJsMTJvWDdqX0lYVTFZMkZYRXRVbEhxU3g2a3czQUhEMEl0TC1PdzZfcGtBZjhTSlQxRmNHc1VOWDVmOE1JMVo2MWpZbVZCMmxVVHBTTXRES09mbGtOYm9BeUhFWnVBUUsycHh3TUs2Y0tja2wwNVBGS1hqZ1BZVlBIaA?oc=5",
+      "published": "Thu, 05 Nov 2026 11:12:34 GMT",
+      "matched_on": "red sea",
+      "method": "keyword rules"
+    },
+    {
+      "risk_factor": "Red Sea shipping disruption",
+      "materials": [
+        "PA6",
+        "PP"
+      ],
+      "value": null,
+      "severity": "medium",
       "headline": "Why container rates are climbing despite cooling demand - FreightWaves",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ2hja1JPTF9ULU5jdUtib0pSTTZidi1PYkJsbFBMU2tLekc1RHlnQ3FvVmRuTTF3YUNRdGZ3b2lBcDYxaG9aajFiYjV5SFItNkhUSVQxTkJfaXdOMDhsMjgyUU1LRXo0am9WenVPS0tqakJEWk5EX0RnUmNiMncyeGswRmNBZTc5UF9adEY3cW9hcW8?oc=5",
       "published": "Thu, 29 Oct 2026 18:39:34 GMT",
       "matched_on": "container rate",
+      "method": "keyword rules"
+    },
+    {
+      "risk_factor": "Red Sea shipping disruption",
+      "materials": [
+        "PA6",
+        "PP"
+      ],
+      "value": null,
+      "severity": "medium",
+      "headline": "Red Sea Return: What It Means for 2026 Container Shipping Contract Rates - Xeneta",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMjBBOVhValhhczdtYm9XUFpaS0pRcnhJLXZVZHlpREVQQ08zeFE3Y3h4Z21NbmowVE9VeHhqR3ZCaUsxeXBDS0VCbmJsUVA0ZzJDRzRkLUtleVdoX0lzbXY4SGxhYTZpLWxVdkZ4Vnd2SUtJQTRBLWJPeW5FOHd5czVFQy12SEc5aGRUVl9QZS01NTY0ekdvZWVnTXAyUEph?oc=5",
+      "published": "Thu, 22 Jan 2026 08:00:00 GMT",
+      "matched_on": "red sea",
       "method": "keyword rules"
     },
     {
@@ -70,20 +98,6 @@
       "method": "keyword rules"
     },
     {
-      "risk_factor": "Red Sea shipping disruption",
-      "materials": [
-        "PA6",
-        "PP"
-      ],
-      "value": null,
-      "severity": "medium",
-      "headline": "T3ex: Red Sea Crisis Unresolved, Container Freight Rates to Stay Elevated Through at Least September; Air Freight Q3 Even Stronger - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kQjB4ckFaQjdsQnZ2bERRbGZZeFJQTHl4YlpKQVpabWJFSWxVUUlRakVlZGl5QnpJME1yd2lqdEdTaDgtYkRYRzFXSGZIU0g3UENwS1RTbmtZNm41TEtsNldiSWdRbzJFT1JlSzctWjF3Sks5aFE?oc=5",
-      "published": "Wed, 19 Aug 2026 07:00:00 GMT",
-      "matched_on": "red sea",
-      "method": "keyword rules"
-    },
-    {
       "risk_factor": "Turkey minimum wage increase",
       "materials": [
         "PP",
@@ -107,8 +121,8 @@
       ],
       "value": null,
       "severity": "medium",
-      "headline": "T\u00fcrkiye hikes minimum wage by 27% for 2026 - Daily Sabah",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeEt5a3pUZ0xvRHN5TFpBTml4RmtLU2VqdklyOGVsVUlvdy1mczVjSHZjYTAzd0VodWNQeVltNEFjS2JnclZlTndhZ0xuWDZXYlpvMFA4bDJJTGlfNUR3eFNNN1lLaHp6b0h6bHVNSXhKQUxTNnFCZmJNcldWRzA4Z2gxTkRzcmlVTXQzYmhB?oc=5",
+      "headline": "T\u00fcrkiye hikes minimum wage by 27% for 2026 | Daily Sabah - Daily Sabah",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeEt5a3pUZ0xvRHN5TFpBTml4RmtLU2VqdklyOGVsVUlvdy1mczVjSHZjYTAzd0VodWNQeVltNEFjS2JnclZlTndhZ0xuWDZXYlpvMFA4bDJJTGlfNUR3eFNNN1lLaHp6b0h6bHVNSXhKQUxTNnFCZmJNcldWRzA4Z2gxTkRzcmlVTXQzYmhB0gGTAUFVX3lxTFAzclBHS29xMG8zalJEQ1p3dlVCVHpSSEkwV0tKMmpPdy0zak1YSmt4QUd3UUFROGNJc0dTbGVCZUNvX0ZTaTdQOHZQNjdVTnZJS3FzRUdPTXpTMzFFZ2Qzcm1nV3Zhb0tQNmwwLUVDeVlpQkw2VjBvRVNmSUt1ejlBeFdCbGs1TXlVb2ExMmRiQXpnQQ?oc=5",
       "published": "Tue, 23 Dec 2025 08:00:00 GMT",
       "matched_on": "minimum wage",
       "method": "keyword rules"
@@ -125,21 +139,6 @@
       "headline": "Turkey Raises Minimum Wage by 27%, in Line With Expectations - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYnRWcjY3TDlBSElBc1cyeGdRbXlDNkxUOGg0SllpdThlSjBTMDVTOVpaZHhqbmhQV1pNM0FUNFZ3VDYyM0pBSnVySmNCNjN6a0lYeXYzMlpxNGNXZ2loTmt4d3JhdXNCWXB0WUVRcWVnUnIyb1hpS3hwVFhZNUpKWHJkWWU3dXR2T3lIWF93WlBPX2gwNUNjTmczX2UzY1VYZmwwLWpQcnprYjlPSEE?oc=5",
       "published": "Tue, 23 Dec 2025 08:00:00 GMT",
-      "matched_on": "minimum wage",
-      "method": "keyword rules"
-    },
-    {
-      "risk_factor": "Turkey minimum wage increase",
-      "materials": [
-        "PP",
-        "PA6",
-        "Steel"
-      ],
-      "value": null,
-      "severity": "medium",
-      "headline": "Turkey\u2019s unions press for substantial raise ahead of 2026 minimum wage talks amid soaring cost of living - Turkish Minute",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTzllczdBcjlMbkk5RFE5S09CcVU1SnBQeWNyR2lDa2lRLXNhYVdtQTdIYTluMHVPN2ZYVDE0aEtpX05YRGhZNGU0ZHpvSE94b1ZHRGJoMnNkNGM3LUFxVldnZVFibDQ4dk5wdFRodlhxRlhGYi10WWRFVnJwSHcyZVV3dDBUcEpCRXdvbDQ5UHc1NXhrdEp6V1poQ25tV0cyMFNqRVR1MTR3bUVUYXFzdm1ZZU1BWXJseGhyaUVkYldVd0VrY0lBVzNwYnVFUjlJMXJ2ZENORnbSAd4BQVVfeXFMTmhKVGdyUUhQa1kwbUwzcEN3M1ZtSHBldG5HeVptZlBrVktNVWJKVV8yZ3V4aG1FQVYxMzE4VG5yVmQyRnVQaTBVdzBtZ21iNGZpNHVxSG5zWVpveXgyeGphT281WG5SUTU5anRLdkE2TG9UUjR6bTV5Vl9jRGh6anNmSS1MN3Zib0hsV21WN3BmdF9NMnZJbWR2blpsTUVnU09JNDUtdFFyanNtS1pUbTQ5OWUzZ2ZVNVVGUENfUFlhM1h6MGd6T29RVi00UVBqLXlNTENRYW5HSXFOYURB?oc=5",
-      "published": "Wed, 03 Dec 2025 08:00:00 GMT",
       "matched_on": "minimum wage",
       "method": "keyword rules"
     },
@@ -179,14 +178,14 @@
       "risk_factor": "Red Sea shipping disruption",
       "value": null,
       "severity": "medium",
-      "headline": "Why container rates are climbing despite cooling demand - FreightWaves",
+      "headline": "Xeneta forecasts 30% fall in container spot rates in 2027 as Red Sea capacity returns - Container Management",
       "method": "keyword rules"
     },
     "PA6": {
       "risk_factor": "Red Sea shipping disruption",
       "value": null,
       "severity": "medium",
-      "headline": "Why container rates are climbing despite cooling demand - FreightWaves",
+      "headline": "Xeneta forecasts 30% fall in container spot rates in 2027 as Red Sea capacity returns - Container Management",
       "method": "keyword rules"
     },
     "Steel": {
