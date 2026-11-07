@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T12:48:51+00:00",
+  "generated_at": "2026-11-07T11:36:57+00:00",
   "classification_method": "keyword rules",
   "sources": {
     "exchange_rate": {
@@ -8,9 +8,9 @@
       "pair": "USD/TRY",
       "rate": 50.0724,
       "rate_date": "2026-11-06",
-      "reference_rate": 49.1976,
-      "reference_date": "2026-10-07",
-      "change_pct": 1.78,
+      "reference_rate": 49.2152,
+      "reference_date": "2026-10-08",
+      "change_pct": 1.74,
       "lookback_days": 30,
       "is_risk": false
     },
@@ -35,9 +35,9 @@
       ],
       "value": null,
       "severity": "medium",
-      "headline": "Xeneta Summit: Analysts forecast ocean freight spot rates to fall 30% in 2027 as Red Sea return sees capacity flooding back - Hellenic Shipping News",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQelRVOUtmMEtxUG53X3FIQmpTZmtzM2p3Y3lsMmt4aTdqREZ3Z2JYMHpGbHhSelVidHNNUWF1aHFiVzdYSzJsMkk4UkUzcFFUSjR0MEJoQjNzd3UwZGVqcGRBRndXSXJvOElZOGJ5UmlLNjJRU0V5WFNJNFVtdVgxOXFFRlg5dG04cEVCU0Jyekstc0hkYzNnUzU1UVpQWGxYR1hUZDlwVW5BVW5kcTNWZ1J2Sy00aUljR0xvRTZvRnd2N2JZcG9CUVJmM0JXTWZzWUhVVGR0MFhwUFRHU2xuQjR2di1CNzNjTWNoWmpsMzg?oc=5",
-      "published": "Thu, 05 Nov 2026 22:05:25 GMT",
+      "headline": "Xeneta Summit: Analysts forecast ocean freight spot rates to fall 30% in 2027 as Red Sea return sees capacity flooding back - India Shipping News",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZ2t1QWxjQzllNVJFUjJiTXd0ZGhReTNNZFk2bkFQeVZEa3FaX2tFVG9oczY0SWh4TXBXYXBpRWtOTjBNd2ktdVBHb3hsTWl6ZE9aRWgtZXVYT0JxTmNaVjBzTVZxVzVUVUJncjBBczdJX3dVRU9nWl9BNVo0R2lOOS1aaTdIcmtpWVQ0ZjNVMGkzb1dXNk9TX21DTWNmRDhuUHJoVmVwMzJ3RUVSajVKVEtLN1R1Q1BsNUVZYWxOZzRYTEZwYmZJVjU3QjBPTjdMTndPUXVlc3VLOVZNUjd2NGtwdzd0U2VjMjdEMU13OTRCRjBhOEQybWc1Vmswcm4yVlVfWTh3?oc=5",
+      "published": "Sat, 07 Nov 2026 03:49:37 GMT",
       "matched_on": "red sea",
       "method": "keyword rules"
     },
@@ -81,20 +81,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVnFnVEpJd09lNUtPeEI0a0N1aGpZdTQwWlNLcm5EVm14TnVJMGJPb2xkYUN6WTRwYVgySmtQOWhtX1ZjR0VTRXVOWUV0Nkx4Q1ZySTVLUTlJR2RVRzczWUVjb1BrNFpacU1nNkp3UGV5N2dxYWpCX2RPVS1NdGZhMnRKYmNtRjNO?oc=5",
       "published": "Fri, 21 Aug 2026 07:00:00 GMT",
       "matched_on": "red sea",
-      "method": "keyword rules"
-    },
-    {
-      "risk_factor": "Red Sea shipping disruption",
-      "materials": [
-        "PA6",
-        "PP"
-      ],
-      "value": null,
-      "severity": "medium",
-      "headline": "Ocean freight market turns red hot, prompting freight rate rally - Scan Global Logistics",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYU5Cc0o3ZlBMSXlKMnVLOWJsUndjU2VJdnRaNnVlOHBvNnk0cHMzT3JQRlVzcmpLR0FuWVQyVFk1dF9RVlo0Vm1fUHM3STdqSzNWRzZRSEhtbFB0bjJJc0otNEtiM2d6VXF2YTdqVGVtcVdNWWp1dnRfVHExeEg3MVNYc2xFVHRVRWE2bEZ0NmlPUjZtbTBR?oc=5",
-      "published": "Wed, 08 Jul 2026 07:00:00 GMT",
-      "matched_on": "freight rate",
       "method": "keyword rules"
     },
     {
@@ -193,14 +179,14 @@
       "risk_factor": "Red Sea shipping disruption",
       "value": null,
       "severity": "medium",
-      "headline": "Xeneta Summit: Analysts forecast ocean freight spot rates to fall 30% in 2027 as Red Sea return sees capacity flooding back - Hellenic Shipping News",
+      "headline": "Xeneta Summit: Analysts forecast ocean freight spot rates to fall 30% in 2027 as Red Sea return sees capacity flooding back - India Shipping News",
       "method": "keyword rules"
     },
     "PA6": {
       "risk_factor": "Red Sea shipping disruption",
       "value": null,
       "severity": "medium",
-      "headline": "Xeneta Summit: Analysts forecast ocean freight spot rates to fall 30% in 2027 as Red Sea return sees capacity flooding back - Hellenic Shipping News",
+      "headline": "Xeneta Summit: Analysts forecast ocean freight spot rates to fall 30% in 2027 as Red Sea return sees capacity flooding back - India Shipping News",
       "method": "keyword rules"
     },
     "Steel": {
