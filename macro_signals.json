@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-10T13:22:42+00:00",
+  "generated_at": "2026-11-11T12:33:29+00:00",
   "classification_method": "keyword rules",
   "sources": {
     "exchange_rate": {
       "available": true,
       "source": "Turkish central bank daily reference rate",
       "pair": "USD/TRY",
-      "rate": 50.1981,
-      "rate_date": "2026-11-10",
-      "reference_rate": 49.216,
-      "reference_date": "2026-10-09",
-      "change_pct": 2.0,
+      "rate": 50.2282,
+      "rate_date": "2026-11-11",
+      "reference_rate": 49.3358,
+      "reference_date": "2026-10-12",
+      "change_pct": 1.81,
       "lookback_days": 30,
       "is_risk": false
     },
@@ -35,37 +35,23 @@
       ],
       "value": null,
       "severity": "medium",
+      "headline": "Red Sea return could see container freight rates slump by 30% next year, warns analyst - TradeWinds News",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX0pkaWRtdjRKeWpma185bUtPS1U5WDBKaUdMeXcxZkhYT041ZUdxRktiSHhDU0E3a3dkNjdWLXYyZUdaZ2tGU2d4NGJUNkVaNEMzLTN4anB0eHBWNzFUSkFOZ29icXI5aTBqR0dXVi1RNUx4em5SYmFONTdYZks2ekVEcTJiTmpvdl9zV3VETlpySVhpVllOZ0RxWE1RUXJFRHF3aVMwMnNuZVJORlRIU3c1SFB0Z18yb1JSWGhrTWhYNFFpOHdmR2RxUjAwbGRRZDVaeA?oc=5",
+      "published": "Tue, 10 Nov 2026 15:38:23 GMT",
+      "matched_on": "red sea",
+      "method": "keyword rules"
+    },
+    {
+      "risk_factor": "Red Sea shipping disruption",
+      "materials": [
+        "PA6",
+        "PP"
+      ],
+      "value": null,
+      "severity": "medium",
       "headline": "Ocean freight spot rates to fall 30% in 2027 with return to Red Sea route, predicts Xeneta \u2014 SMI DIGITAL - https://www.shipmanagementinternational.com/",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZHgxcXM5RnFPamF2M0ZBZWtsNjRwTmRVQWpST3lnTVFPZUVyYVRsTG1HU1p0SE55aDJORzNfSVBhTmJQUGtwS1VfcU41U1NRVGVVQVl3SGFmMk5IUG9rd2dRUTl0anBQVVFNTGxLUkUyaU1PQkdYREtVTmhlaHQ2SEtmNVdOVk9UTW5uWXJmYWMxSlhseUlFVV8tQlZVOWZ6ZmxqbXhjMDk0WXJnSTZ1VHNDWVZlZ285UGRXUkFWN1NUa3FfSVdORlVB?oc=5",
       "published": "Mon, 09 Nov 2026 12:28:34 GMT",
-      "matched_on": "red sea",
-      "method": "keyword rules"
-    },
-    {
-      "risk_factor": "Red Sea shipping disruption",
-      "materials": [
-        "PA6",
-        "PP"
-      ],
-      "value": null,
-      "severity": "medium",
-      "headline": "Red Sea Return: What It Means for 2026 Container Shipping Contract Rates - Xeneta",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMjBBOVhValhhczdtYm9XUFpaS0pRcnhJLXZVZHlpREVQQ08zeFE3Y3h4Z21NbmowVE9VeHhqR3ZCaUsxeXBDS0VCbmJsUVA0ZzJDRzRkLUtleVdoX0lzbXY4SGxhYTZpLWxVdkZ4Vnd2SUtJQTRBLWJPeW5FOHd5czVFQy12SEc5aGRUVl9QZS01NTY0ekdvZWVnTXAyUEph?oc=5",
-      "published": "Thu, 22 Jan 2026 08:00:00 GMT",
-      "matched_on": "red sea",
-      "method": "keyword rules"
-    },
-    {
-      "risk_factor": "Red Sea shipping disruption",
-      "materials": [
-        "PA6",
-        "PP"
-      ],
-      "value": null,
-      "severity": "medium",
-      "headline": "Xeneta forecasts 30% fall in container spot rates in 2027 as Red Sea capacity returns - Container Management",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWDdDa0JybkludUhkekE2UUhZcGd0ZmtWbmZzNFUzSlUxNjJsMTJvWDdqX0lYVTFZMkZYRXRVbEhxU3g2a3czQUhEMEl0TC1PdzZfcGtBZjhTSlQxRmNHc1VOWDVmOE1JMVo2MWpZbVZCMmxVVHBTTXRES09mbGtOYm9BeUhFWnVBUUsycHh3TUs2Y0tja2wwNVBGS1hqZ1BZVlBIaA?oc=5",
-      "published": "Thu, 05 Nov 2026 11:12:34 GMT",
       "matched_on": "red sea",
       "method": "keyword rules"
     },
@@ -84,18 +70,17 @@
       "method": "keyword rules"
     },
     {
-      "risk_factor": "Turkey minimum wage increase",
+      "risk_factor": "Red Sea shipping disruption",
       "materials": [
-        "PP",
         "PA6",
-        "Steel"
+        "PP"
       ],
       "value": null,
       "severity": "medium",
-      "headline": "Turkey raises minimum wage by 27 percent, drawing sharp political backlash - Turkish Minute",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcDV5cm5nOVZWNzRNOV8tSHpGUXp5NHV2dkV3M1JkUW1rRktwTjRXTmdnU2VFaHo3VzU5dDZfZWFkY0tJTERFamt2WnVsOUlxVG52MlhQeXg1SDNJdlV0aG42WjRFYXBsLWJPcXpBWWlEZmV1eVRtZ2FSbExkN2RnUmhpUTJjVlB3Qi1KTDRLVWtmNWg0RUNvREExN3l0T1ZKVDkxM1J5X0dHY2hQSnhWWtIBtgFBVV95cUxPUEZvaVFzMUxVVGpfcU5Wc1hjbHRIQmRJeFZYSW4xR1dJVGZBaURDNU1ZOF9ZN0RsVkpHUXF2LUFXMjdzZ1Y0WlNfMTVyY2l1SUVXVHdtYWE5aVI1bk1iclNQeDNNT0NkWk9GcFpLNlZxQzJPck9PU191VzVZaF9QZmtjTVFTSUNnazRtekQ2SUxhR2NXMzdvREF1YllqcFZscFlyZDlEeUxRV0tQajd1OG1vNzJJdw?oc=5",
-      "published": "Wed, 24 Dec 2025 08:00:00 GMT",
-      "matched_on": "minimum wage",
+      "headline": "Ocean freight market turns red hot, prompting freight rate rally - Scan Global Logistics",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYU5Cc0o3ZlBMSXlKMnVLOWJsUndjU2VJdnRaNnVlOHBvNnk0cHMzT3JQRlVzcmpLR0FuWVQyVFk1dF9RVlo0Vm1fUHM3STdqSzNWRzZRSEhtbFB0bjJJc0otNEtiM2d6VXF2YTdqVGVtcVdNWWp1dnRfVHExeEg3MVNYc2xFVHRVRWE2bEZ0NmlPUjZtbTBR?oc=5",
+      "published": "Wed, 08 Jul 2026 07:00:00 GMT",
+      "matched_on": "freight rate",
       "method": "keyword rules"
     },
     {
@@ -144,6 +129,21 @@
       "method": "keyword rules"
     },
     {
+      "risk_factor": "Turkey minimum wage increase",
+      "materials": [
+        "PP",
+        "PA6",
+        "Steel"
+      ],
+      "value": null,
+      "severity": "medium",
+      "headline": "Wage hike decision 'actively damaging' Isle of Man economy - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94eGlxWUY4OTczWVRNVzl4RWhHZVl6Wk5NWXlrUXFjSFNTcDVzSUN5QmNKS3A5TkdlRW8wdlJ0LTl4TERJa2hTYkhqNTcyR0VnR2NnYU5vdmcwQQ?oc=5",
+      "published": "Fri, 16 Jan 2026 08:00:00 GMT",
+      "matched_on": "wage hike",
+      "method": "keyword rules"
+    },
+    {
       "risk_factor": "Geopolitical supply disruption",
       "materials": [
         "Steel",
@@ -164,21 +164,21 @@
       "risk_factor": "Red Sea shipping disruption",
       "value": null,
       "severity": "medium",
-      "headline": "Ocean freight spot rates to fall 30% in 2027 with return to Red Sea route, predicts Xeneta \u2014 SMI DIGITAL - https://www.shipmanagementinternational.com/",
+      "headline": "Red Sea return could see container freight rates slump by 30% next year, warns analyst - TradeWinds News",
       "method": "keyword rules"
     },
     "PA6": {
       "risk_factor": "Red Sea shipping disruption",
       "value": null,
       "severity": "medium",
-      "headline": "Ocean freight spot rates to fall 30% in 2027 with return to Red Sea route, predicts Xeneta \u2014 SMI DIGITAL - https://www.shipmanagementinternational.com/",
+      "headline": "Red Sea return could see container freight rates slump by 30% next year, warns analyst - TradeWinds News",
       "method": "keyword rules"
     },
     "Steel": {
       "risk_factor": "Turkey minimum wage increase",
       "value": null,
       "severity": "medium",
-      "headline": "Turkey raises minimum wage by 27 percent, drawing sharp political backlash - Turkish Minute",
+      "headline": "T\u00fcrkiye hikes minimum wage by 27% for 2026 | Daily Sabah - Daily Sabah",
       "method": "keyword rules"
     }
   }
