@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T12:56:48+00:00",
+  "generated_at": "2026-11-14T12:00:02+00:00",
   "classification_method": "keyword rules",
   "sources": {
     "exchange_rate": {
@@ -8,9 +8,9 @@
       "pair": "USD/TRY",
       "rate": 50.283,
       "rate_date": "2026-11-13",
-      "reference_rate": 49.3929,
-      "reference_date": "2026-10-14",
-      "change_pct": 1.8,
+      "reference_rate": 49.4204,
+      "reference_date": "2026-10-15",
+      "change_pct": 1.75,
       "lookback_days": 30,
       "is_risk": false
     },
@@ -35,10 +35,38 @@
       ],
       "value": null,
       "severity": "medium",
+      "headline": "Hapag-Lloyd Profit Surges as Freight Rates Rise, Red Sea Services Return - gCaptain",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUml2X0p5WGZidXhoZ2JmUGtZNnNYcDZIcURGOVRJWTB6Q09uYkttckJTS3N3RVNBOWZQUGlwQWJQMWFqYUd2X09mdVZ6QWhhelpxLXFTQmhxSDdnU2FOVUdfbUdjU0RVWnB2ZVpvdGYtclhJd0k0aElKQ19UX0RxTmlsTGR2T3MwdnpER1hBZ21BaUVWZlg2Xw?oc=5",
+      "published": "Fri, 13 Nov 2026 17:09:56 GMT",
+      "matched_on": "red sea",
+      "method": "keyword rules"
+    },
+    {
+      "risk_factor": "Red Sea shipping disruption",
+      "materials": [
+        "PA6",
+        "PP"
+      ],
+      "value": null,
+      "severity": "medium",
       "headline": "Red Sea return could see container freight rates slump by 30% next year, warns analyst - TradeWinds News",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX0pkaWRtdjRKeWpma185bUtPS1U5WDBKaUdMeXcxZkhYT041ZUdxRktiSHhDU0E3a3dkNjdWLXYyZUdaZ2tGU2d4NGJUNkVaNEMzLTN4anB0eHBWNzFUSkFOZ29icXI5aTBqR0dXVi1RNUx4em5SYmFONTdYZks2ekVEcTJiTmpvdl9zV3VETlpySVhpVllOZ0RxWE1RUXJFRHF3aVMwMnNuZVJORlRIU3c1SFB0Z18yb1JSWGhrTWhYNFFpOHdmR2RxUjAwbGRRZDVaeA?oc=5",
       "published": "Tue, 10 Nov 2026 15:38:23 GMT",
       "matched_on": "red sea",
+      "method": "keyword rules"
+    },
+    {
+      "risk_factor": "Red Sea shipping disruption",
+      "materials": [
+        "PA6",
+        "PP"
+      ],
+      "value": null,
+      "severity": "medium",
+      "headline": "Why container rates are climbing despite cooling demand - FreightWaves",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ2hja1JPTF9ULU5jdUtib0pSTTZidi1PYkJsbFBMU2tLekc1RHlnQ3FvVmRuTTF3YUNRdGZ3b2lBcDYxaG9aajFiYjV5SFItNkhUSVQxTkJfaXdOMDhsMjgyUU1LRXo0am9WenVPS0tqakJEWk5EX0RnUmNiMncyeGswRmNBZTc5UF9adEY3cW9hcW8?oc=5",
+      "published": "Thu, 29 Oct 2026 07:00:00 GMT",
+      "matched_on": "container rate",
       "method": "keyword rules"
     },
     {
@@ -66,20 +94,6 @@
       "headline": "Red Sea Container Shipping Return Gains Pace as Capacity Doubles: Xeneta - Ship & Bunker",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdkRGVjVYci1wOUpacWQ0djB6dGhmTXZ0U05YYVRYTGowN1BCb3pEQ3AxZzdzam9CYmtGNGoyNmlDSU1UaFFvaXNiZjRrN1hBeWlpQW5zUDRndUpBWFo2NW1KX2xNMTJlWVdIRjl6ZGZSSWJzdldISkR0bC1sTDRWZE5abURjZFNyY2JUR2hyOVZKVmRpZl96VGM2WUtYU1dYS2JBNU9NN0V0R3lnV1laZl9yR1VDZw?oc=5",
       "published": "Mon, 19 Oct 2026 05:21:57 GMT",
-      "matched_on": "red sea",
-      "method": "keyword rules"
-    },
-    {
-      "risk_factor": "Red Sea shipping disruption",
-      "materials": [
-        "PA6",
-        "PP"
-      ],
-      "value": null,
-      "severity": "medium",
-      "headline": "Port congestion and Red Sea risks keep container shipping under pressure - Kuehne+Nagel",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVnFnVEpJd09lNUtPeEI0a0N1aGpZdTQwWlNLcm5EVm14TnVJMGJPb2xkYUN6WTRwYVgySmtQOWhtX1ZjR0VTRXVOWUV0Nkx4Q1ZySTVLUTlJR2RVRzczWUVjb1BrNFpacU1nNkp3UGV5N2dxYWpCX2RPVS1NdGZhMnRKYmNtRjNO?oc=5",
-      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
       "matched_on": "red sea",
       "method": "keyword rules"
     },
@@ -164,14 +178,14 @@
       "risk_factor": "Red Sea shipping disruption",
       "value": null,
       "severity": "medium",
-      "headline": "Red Sea return could see container freight rates slump by 30% next year, warns analyst - TradeWinds News",
+      "headline": "Hapag-Lloyd Profit Surges as Freight Rates Rise, Red Sea Services Return - gCaptain",
       "method": "keyword rules"
     },
     "PA6": {
       "risk_factor": "Red Sea shipping disruption",
       "value": null,
       "severity": "medium",
-      "headline": "Red Sea return could see container freight rates slump by 30% next year, warns analyst - TradeWinds News",
+      "headline": "Hapag-Lloyd Profit Surges as Freight Rates Rise, Red Sea Services Return - gCaptain",
       "method": "keyword rules"
     },
     "Steel": {
