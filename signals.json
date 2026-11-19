@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T13:44:57+00:00",
+  "generated_at": "2026-11-19T14:14:21+00:00",
   "source_file": "procurement_dataset.csv",
   "as_of": "2026-07-01",
   "scope": {
@@ -67,16 +67,16 @@
   "market_monitor": {
     "available": true,
     "drives_decision": false,
-    "generated_at": "2026-11-18T13:44:56+00:00",
+    "generated_at": "2026-11-19T14:14:21+00:00",
     "classification_method": "keyword rules",
     "exchange_rate": {
       "available": true,
       "source": "Turkish central bank daily reference rate",
       "pair": "USD/TRY",
-      "rate": 50.4444,
-      "rate_date": "2026-11-18",
-      "reference_rate": 49.5523,
-      "reference_date": "2026-10-19",
+      "rate": 50.4694,
+      "rate_date": "2026-11-19",
+      "reference_rate": 49.578,
+      "reference_date": "2026-10-20",
       "change_pct": 1.8,
       "lookback_days": 30,
       "is_risk": false
@@ -119,6 +119,20 @@
         ],
         "value": null,
         "severity": "medium",
+        "headline": "Red Sea return could see container freight rates slump by 30% next year, warns analyst - TradeWinds News",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX0pkaWRtdjRKeWpma185bUtPS1U5WDBKaUdMeXcxZkhYT041ZUdxRktiSHhDU0E3a3dkNjdWLXYyZUdaZ2tGU2d4NGJUNkVaNEMzLTN4anB0eHBWNzFUSkFOZ29icXI5aTBqR0dXVi1RNUx4em5SYmFONTdYZks2ekVEcTJiTmpvdl9zV3VETlpySVhpVllOZ0RxWE1RUXJFRHF3aVMwMnNuZVJORlRIU3c1SFB0Z18yb1JSWGhrTWhYNFFpOHdmR2RxUjAwbGRRZDVaeA?oc=5",
+        "published": "Tue, 10 Nov 2026 15:38:23 GMT",
+        "matched_on": "red sea",
+        "method": "keyword rules"
+      },
+      {
+        "risk_factor": "Red Sea shipping disruption",
+        "materials": [
+          "PA6",
+          "PP"
+        ],
+        "value": null,
+        "severity": "medium",
         "headline": "Red Sea Return: What It Means for 2026 Container Shipping Contract Rates - Xeneta",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMjBBOVhValhhczdtYm9XUFpaS0pRcnhJLXZVZHlpREVQQ08zeFE3Y3h4Z21NbmowVE9VeHhqR3ZCaUsxeXBDS0VCbmJsUVA0ZzJDRzRkLUtleVdoX0lzbXY4SGxhYTZpLWxVdkZ4Vnd2SUtJQTRBLWJPeW5FOHd5czVFQy12SEc5aGRUVl9QZS01NTY0ekdvZWVnTXAyUEph?oc=5",
         "published": "Thu, 22 Jan 2026 08:00:00 GMT",
@@ -137,20 +151,6 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYU5Cc0o3ZlBMSXlKMnVLOWJsUndjU2VJdnRaNnVlOHBvNnk0cHMzT3JQRlVzcmpLR0FuWVQyVFk1dF9RVlo0Vm1fUHM3STdqSzNWRzZRSEhtbFB0bjJJc0otNEtiM2d6VXF2YTdqVGVtcVdNWWp1dnRfVHExeEg3MVNYc2xFVHRVRWE2bEZ0NmlPUjZtbTBR?oc=5",
         "published": "Wed, 08 Jul 2026 07:00:00 GMT",
         "matched_on": "freight rate",
-        "method": "keyword rules"
-      },
-      {
-        "risk_factor": "Red Sea shipping disruption",
-        "materials": [
-          "PA6",
-          "PP"
-        ],
-        "value": null,
-        "severity": "medium",
-        "headline": "Port congestion and Red Sea risks keep container shipping under pressure - Kuehne+Nagel",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVnFnVEpJd09lNUtPeEI0a0N1aGpZdTQwWlNLcm5EVm14TnVJMGJPb2xkYUN6WTRwYVgySmtQOWhtX1ZjR0VTRXVOWUV0Nkx4Q1ZySTVLUTlJR2RVRzczWUVjb1BrNFpacU1nNkp3UGV5N2dxYWpCX2RPVS1NdGZhMnRKYmNtRjNO?oc=5",
-        "published": "Fri, 21 Aug 2026 07:00:00 GMT",
-        "matched_on": "red sea",
         "method": "keyword rules"
       },
       {
