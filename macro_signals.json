@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T13:55:10+00:00",
+  "generated_at": "2026-11-21T13:19:20+00:00",
   "classification_method": "keyword rules",
   "sources": {
     "exchange_rate": {
@@ -8,9 +8,9 @@
       "pair": "USD/TRY",
       "rate": 50.4936,
       "rate_date": "2026-11-20",
-      "reference_rate": 49.6015,
-      "reference_date": "2026-10-21",
-      "change_pct": 1.8,
+      "reference_rate": 49.6281,
+      "reference_date": "2026-10-22",
+      "change_pct": 1.74,
       "lookback_days": 30,
       "is_risk": false
     },
@@ -39,6 +39,34 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWjdmako4QzByallQUWF2QnVoQzdNTHhzUndVa1d2MXdRbWU3OTQwaXVvSEFvaVlheTJQazduOWFRbHFrZmpfanZNX2RVR20zSDhERFpkVU1qekxxbEl1aWZqZTNyS0psWlZVd3lCWVZtX2xmVGkxM2wzZzRITnRjSzY4VDNkV2hWWVBacm5LSFl3Z0p0Y2hOLTFuN1JHcDVWRXppYTlBRGtCY2tsQjd1ZXNieVg?oc=5",
       "published": "Tue, 17 Nov 2026 16:28:34 GMT",
       "matched_on": "red sea",
+      "method": "keyword rules"
+    },
+    {
+      "risk_factor": "Red Sea shipping disruption",
+      "materials": [
+        "PA6",
+        "PP"
+      ],
+      "value": null,
+      "severity": "medium",
+      "headline": "Red Sea return could see container freight rates slump by 30% next year, warns analyst - TradeWinds News",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX0pkaWRtdjRKeWpma185bUtPS1U5WDBKaUdMeXcxZkhYT041ZUdxRktiSHhDU0E3a3dkNjdWLXYyZUdaZ2tGU2d4NGJUNkVaNEMzLTN4anB0eHBWNzFUSkFOZ29icXI5aTBqR0dXVi1RNUx4em5SYmFONTdYZks2ekVEcTJiTmpvdl9zV3VETlpySVhpVllOZ0RxWE1RUXJFRHF3aVMwMnNuZVJORlRIU3c1SFB0Z18yb1JSWGhrTWhYNFFpOHdmR2RxUjAwbGRRZDVaeA?oc=5",
+      "published": "Tue, 10 Nov 2026 08:00:00 GMT",
+      "matched_on": "red sea",
+      "method": "keyword rules"
+    },
+    {
+      "risk_factor": "Red Sea shipping disruption",
+      "materials": [
+        "PA6",
+        "PP"
+      ],
+      "value": null,
+      "severity": "medium",
+      "headline": "Maersk, Hapag-Lloyd Expand Suez Canal Return With Three More Gemini Services - gCaptain",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeDBpMF80QndzQjM3c0JuTWdLT0lEaVlCR2FCN1A2eURFQlB4X0JnMXNZYmJLeUo3UzJxNFE5a3RDLWJmUDZqdUh4aFVoeThURjN2QndSVXpFMkdUQ0pyNzdYOUxOOVhWZ3FaNTJFV3BkRWFPR0ZSTHNtSUpoVnhTMjdENTVyWXpqRkhveTdKVmt1US1WdVJXT0F5azVndw?oc=5",
+      "published": "Mon, 16 Nov 2026 15:45:05 GMT",
+      "matched_on": "suez",
       "method": "keyword rules"
     },
     {
@@ -84,17 +112,18 @@
       "method": "keyword rules"
     },
     {
-      "risk_factor": "Red Sea shipping disruption",
+      "risk_factor": "Turkey minimum wage increase",
       "materials": [
+        "PP",
         "PA6",
-        "PP"
+        "Steel"
       ],
       "value": null,
       "severity": "medium",
-      "headline": "T3ex: Red Sea Crisis Unresolved, Container Freight Rates to Stay Elevated Through at Least September; Air Freight Q3 Even Stronger - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kQjB4ckFaQjdsQnZ2bERRbGZZeFJQTHl4YlpKQVpabWJFSWxVUUlRakVlZGl5QnpJME1yd2lqdEdTaDgtYkRYRzFXSGZIU0g3UENwS1RTbmtZNm41TEtsNldiSWdRbzJFT1JlSzctWjF3Sks5aFE?oc=5",
-      "published": "Wed, 19 Aug 2026 07:00:00 GMT",
-      "matched_on": "red sea",
+      "headline": "Striking result from the minimum wage survey! Here is the requested figure - Haberler.com",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOamNxdHdzanNWYWh4UHNaSVY4bmd3cWFua2NMS3gwS2tsblVoQWZQbGRGWk81U1J0czFWVlNKSWlLWnRyeXlwa3E5S3ViV1I3V0hqdkhrUjh5TTVQb3pvODVtLWdLdFM3TzlEVVhRb0hVYml6V0FObFRvaG9seUZVVG14enUxdk1kMUE?oc=5",
+      "published": "Sat, 21 Nov 2026 12:22:22 GMT",
+      "matched_on": "minimum wage",
       "method": "keyword rules"
     },
     {
@@ -158,21 +187,6 @@
       "method": "keyword rules"
     },
     {
-      "risk_factor": "Turkey minimum wage increase",
-      "materials": [
-        "PP",
-        "PA6",
-        "Steel"
-      ],
-      "value": null,
-      "severity": "medium",
-      "headline": "Turkey announces 27% minimum wage hike for 2026 - Bianet",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbXBJMDRKOE01Njdfb0VxQWdiYmVKU2JQM1NmVHgtOGt1eHB0OW9TeXF3MnNBbklkTHNiMGlnU3lfODBsVDloRnVvY01TTHUwckYwV2xlelZoWlFGbTRTMF9IVmplVUg3YjNzb2dodnNaaHU2Y2pOdGtjVVBLTGFnV0VYeGQ?oc=5",
-      "published": "Tue, 23 Dec 2025 08:00:00 GMT",
-      "matched_on": "minimum wage",
-      "method": "keyword rules"
-    },
-    {
       "risk_factor": "Geopolitical supply disruption",
       "materials": [
         "Steel",
@@ -207,7 +221,7 @@
       "risk_factor": "Turkey minimum wage increase",
       "value": null,
       "severity": "medium",
-      "headline": "Minimum wage in the TRNC has been increased mid-year! The difference with Turkey is incredible - Haberler.com",
+      "headline": "Striking result from the minimum wage survey! Here is the requested figure - Haberler.com",
       "method": "keyword rules"
     }
   }
